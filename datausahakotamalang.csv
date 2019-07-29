@@ -1,0 +1,895 @@
+No.,NAMA PERUSAHAAN,ALAMAT PERUSAHAAN,TK PRIA,TK WANITA,TOTAL TK,JENIS USAHA
+1,PDAM Kota Malang,Jl. Ters. D. Sentani 100,295,98,393,Air
+2,Perum Jasa Tirta 1,Jl. Surabaya 2A,106,36,142,Air
+3,"Sang Hyang Sri, PT.",Jl. Ciliwung 25,23,9,32,Perdagangan/ Pertanian
+4,"Tiara Persada Raya, PT.",Jl. Raya Dieng 3 Kav. 5,9,8,17,Angkutan
+5,"Pelita Mas, PO.",Jl. S. Supriyadi 25,4,4,8,Angkutan/ Otobus
+6,"Gunung Harta, PO.",Jl. Pattimura 45,8,3,11,Angkutan/ PO
+7,"Medali Mas, PO.",Jl. Pasar Besar 149 Garasi Jl. Taman Tenaga Baru IV/9,19,2,21,Angkutan/ PO
+8,"Puspa Indah, PO.",Jl. Tlogomas 1,56,5,61,Angkutan/ PO
+9,"Restu Mulya, PO.",Jl. Dr. Cipto 452,3,0,3,Angkutan/ PO
+10,"Mandala Satata Gama, PT.",Jl. Simp. Panji Suroso 18,19,2,21,Angkutan/ Taxi
+11,PT. Bringin Dirgantara,Jl. Sumbing No. 28,73,4,77,Angkutan
+12,Ekspres,Jl. Cidanau No.35,102,2,104,Angkutan
+13,"Pancanaka Swasakti Utama, PT.",Jl. Mahakam 8,296,84,380,Bangunan
+14,"PP(Persero) Tbk, PT",Jl.Soekarno Hatta 9,30,4,34,Bangunan
+15,"Kharisma Hasta Buana/ Gajahmada Plaza, PT.",Jl. K. H. Agussalim 48,65,5,70,Bangunan Gedung
+16,"Anugerah Citra Abadi, PT.",Jl. Jagung Suprapto 37,35,5,40,Bangunan/ Konstruksi
+17,"Buana Karya Adi Mandiri, PT.",Jl. Raya Permata Jingga I/1,43,5,48,Bangunan/ Konstruksi
+18,"Citra Mandiri Cipta, PT.",Jl. RP. Suroso,91,0,91,Bangunan/ Konstruksi
+19,"Sumber Kencana Perkasa, PT.",Jl. Semeru 52,20,14,34,Bangunan/ Konstruksi
+20,"Anindo Bertahanuts Perkasa, PT.",Jl. Danau Toba B-19,18,3,21,Bangunan/ Kontraktor
+21,"Araya Bumi Megah, PT.",Jl. Blimbing Indah Megah No. 1,154,32,186,Bangunan/ Kontraktor
+22,"Ayodya Jaya, PT.",Jl. Lahor 5,24,4,28,Bangunan/ Kontraktor
+23,"Bukit Dieng Permai, PT",Jl. Bukit Dieng 3,4,1,5,Bangunan/ Kontraktor
+24,"Ciptojoyo Kawentar, PT.",Jl. Soekarno Hatta Blok 8,368,21,389,Bangunan/ Kontraktor
+25,"Citra Gading Asritama, PT.",Jl. Soekarno Hatta,139,0,139,Bangunan/ Kontraktor
+26,"Duta Perkasa Unggul Lestari, PT.",Jl. Langsep,0,0,0,Bangunan/ Kontraktor
+27,"Ekaargo Kencana Perkasa, PT.",Jl. Semeru 52,57,10,67,Bangunan/ Kontraktor
+28,PAM Sari Jaya,Jl. A. Yani,16,18,34,Bangunan/ Kontraktor
+29,A. Surya Sejahtera Abadi,Jl. M. Sungkono RT 2 RW 2,3,72,75,3/Industri/ Perusahaan Rokok
+30,"Artha Wewasakti Gemilang, PT.",Jl. A. Yani Utara 32,9,0,9,Industri
+31,Bagio S,Jl. Talaud 3 (0341) 327973,3,4,7,Industri
+32,Bell Elastik,Jl. Janti Barat 17,15,1,16,Industri
+33,"Dinnura Inti Laksana Megah, PT.",Jl. Kebonsari VI/8,5,4,9,Industri
+34,Gaya Baru Paperindo,Jl. Kolonel Sugiono 10A/08,97,30,127,Industri
+35,Mie Kudus,Jl. Bondowoso 11,4,10,14,Industri
+36,Mount Scopus Indonesia.PT,Jl. Pahlawan Trip A-8 Malang,50,26,76,Industri
+37,PS. Rejo agung,jl. tenaga utara 1,5,3,8,Industri
+38,Rexton Indocuating,Jl. Karya Timur 64,21,3,24,Industri
+39,Sima Timbangan,Jl. M. Panjaitan 159,20,0,20,Industri
+40,"Sonokeling Tata Jaya, PT.",Jl. Sonokeling 10,7,1,8,Industri
+41,Rajawali Jaya,Jl. Werkudoro 17,4,20,24,Industri Makanan
+42,"Bronson Prima Industri, PT.",Jl. Tenaga 8,65,108,173,Industri Makanan/ Permen
+43,"Kemajuan Industrindo, PT.",Jl. Ciujung 3-5,25,0,25,Industri Mesin
+44,"Kemajuan Industrindo, PT.",Jl. Irian Jaya 17,28,0,28,Industri Mesin
+45,"Lancar Jaya, CV.",Jl. Tenaga Baru IV/11,48,3,51,Industri Pengolahan
+46,"Nitradi Wahyu Cemerlang , PT.",Jl. Simpang L. A. Sucipto 12,20,5,25,Industri Plastik
+47,"Nitradi Wahyu Cemerlang, PT.",Jl. S. P. Sudarmo 33,44,2,46,Industri Plastik
+48,Ronny Pranata Wangsawijaya,Jl. Tenaga 3,6,22,28,Industri Plastik
+49,"Utama Nama, PT",Jl. Raya Bandulan Barat 47,34,52,86,Industri Rokok
+50,"Utama Nama, PT",Jl. Raya Bandulan Barat 309,216,417,633,Industri Rokok
+51,"Tenaga Baru, PT.",Jl. Simp. Tenaga Selatan 69,28,4,32,Industri/
+52,"Wahana Plastindo, PT.",Jl. Tenaga 3,6,22,28,Industri/
+53,Surya Asbes,Jl. Mulyosari 17,89,13,102,Industri/ Asbes
+54,Lestari Biscuit,Jl. Tenaga 3,10,124,134,Industri/ Biscuit
+55,"Madusari, UD.",Jl. Tenaga Utara 9,3,21,24,Industri/ Camilan
+56,"Indana, PT./ Inti Daya Guna Aneka Warna",Jl. LA. Sucipto 456,70,32,102,Industri/ Cat
+57,"Diamond Elastindo, PT.",Jl. Janti Barat 92,15,26,41,Industri/ Elastik
+58,"Sarana Berkah Maju Bersama, PT.",Jl. M. Sungkono 36,7,10,17,Industri/ Filter Rokok
+59,"Ayoni Tanjung, PT.",Jl. Terusan C. Mendut 16,36,29,65,Industri/ Garment
+60,"Pantjamitra Ichigojaya, PT.",Jl. L. A. Sucipto 331,17,75,92,Industri/ Garment
+61,Karet Tunggal Abadi,Jl. Simpang L. A. Sucipto,16,15,31,Industri/ Karet
+62,Nasional Bhirawa Tama,Jl. Peltu Sujono 21,38,2,40,Industri/ Karet
+63,"Bintang Terang , PT.",Jl. Tenaga Selatan 7,88,176,264,Industri/ Karung Plastik
+64,"Usaha Loka Unit Kayu, PT.",Jl. Peltu Sujono 12,246,30,276,Industri/ Kayu
+65,"Madukara, PT.",Jl. S. Supriadi 26,21,73,94,Industri/ Kembang gula
+66,Supercup,Jl. Raya Bandulan III/1,3,20,23,Industri/ Kembang gula
+67,Persh. Krupuk Superjaya,Jl. Kelapa Sawit 10/97,20,10,30,Industri/ Kerupuk
+68,Mulia Jaya Knalpot,Jl. Janti Barat 25,87,18,105,Industri/ Knalpot
+69,"Sumberurip Adi Knalpot, PT.",Jl. Muharto 129,66,5,71,Industri/ knalpot
+70,Cipta Busana,Jl. Ronggowarsito 25,2,40,42,Industri/ Konveksi
+71,early konveksi,Jl. Sartono SH 11,0,7,7,Industri/ Konveksi
+72,Konveksi Boy,Jl. Kedungkandang VII/30,2,8,10,Industri/ Konveksi
+73,Konveksi Wanly Trevi,Jl. Supriyadi 51,19,18,37,Industri/ Konveksi
+74,Joy Collection,Jl. Ciliwung 47A,4,27,31,Industri/ Konveksi/Garment
+75,Anda Jaya,Jl. Raya Bandulan 93,2,8,10,Industri/ Kue
+76,Indratno Sunyoto,Jl. LA. Sucipto XX/20,10,20,30,Industri/ Kue
+77,Kacang Bumbu,Jl. A. Yani 177/92,2,5,7,Industri/ Kue
+78,Kue Koya Madusari,Jl. Zainal Arifin 11,1,7,8,Industri/ Kue
+79,Ratna Cake,Jl. Yos Sudarso 1,5,7,12,Industri/ Kue
+80,"Usaha Loka Unit Kulit, PT.",Jl. Susanto 8,107,6,113,Industri/ Kulit
+81,Sumber Mas,Jl. Raya Bandulan 135,4,14,18,Industri/ Makanan Kecil
+82,Golden Leaves Jaya Abadi,Jl. R. Madyopuro 21/33,38,112,150,Industri/ Makanan Ringan
+83,Mie Jentayu,Jl. Bandulan IX/584,21,35,56,Industri/ Mie
+84,"Balatif, PT.",Jl. Tenaga Tengah 5,37,30,67,Industri/ Obat
+85,"Kebalen Timur, PT.",Jl. Kebalen Wetan 54,14,0,14,Industri/ Penyamaan Kulit
+86,"Kasin, PT.",Jl. Peltu Sujono 25,63,6,69,Industri/ Penyamakan Kulit
+87,"AA, PR.",Jl. M. Sungkono Gg. III,8,279,287,Industri/ Perusahaan Rokok
+88,"AA, PR.",Jl. M. Sungkono I,29,11,40,Industri/ Perusahaan Rokok
+89,"Anak Sakti, PR.",Jl. Satsui Tubun 27B,4,140,144,Industri/ Perusahaan Rokok
+90,"Asia, PR.",Jl. Mulyosari 15,46,284,330,Industri/ Perusahaan Rokok
+91,"Banju Biru, PT.",Jl. A. R. Hakim 2,23,237,260,Industri/ Perusahaan Rokok
+92,"Banju Biru, PT.",Jl. A. Yani Utara 192-196,45,51,96,Industri/ Perusahaan Rokok
+93,"Bentoel Prima, PT.",Jl. Niaga 2,22,1405,1427,Industri/ Perusahaan Rokok
+94,"Berkah Tobacco Indonesia, PT.",Jl. Dr. Sutomo 14,85,9,94,Industri/ Perusahaan Rokok
+95,"Bintang Bola Dunia, PT.",Jl. Peltu Sujono 9,11,118,129,Industri/ Perusahaan Rokok
+96,"Djagung Padi Mas, PR.",Jl. Ki Ageng Gribig 316,81,264,345,Industri/ Perusahaan Rokok
+97,"Gandum, PT",Jl. Mulyosari,616,2079,2695,Industri/ Perusahaan Rokok
+98,"Gangsar, PT.",Jl. Raya Bandulan 83,19,137,156,Industri/ Perusahaan Rokok
+99,"Gerbang Jaya Lestari, PT.",Jl. Raya Bandulan 202,128,782,910,Industri/ Perusahaan Rokok
+100,"H. M. Sampoerna, Tbk, PT.",Jl. Letjend. S. Parman 44,98,6,104,Industri/ Perusahaan Rokok
+101,"HM. Sampoerna, PT.",Jl. Industri Barat 2,56,4511,4567,Industri/ Perusahaan Rokok
+102,Karya Laksa Mulyosari,Jl. Mulyosari RT. 5 RW. 1,19,0,19,Industri/ Perusahaan Rokok
+103,"Karya Niaga Bersama, PT.",Jl. Terusan Batubara 27-29,351,543,894,Industri/ Perusahaan Rokok
+104,"Karya Timur Prima, PT.",Jl. Karya Timur 19,5,24,29,Industri/ Perusahaan Rokok
+105,"Lembang Jaya , PR.",Jl. Lembang 8,45,359,404,Industri/ Perusahaan Rokok
+106,"Merapi Agung Lestari, PT.",Kel. Mulyorejo,260,41,301,Industri/ Perusahaan Rokok
+107,Perajangan Tembakau,Jl. Mulyosari 6,14,6,20,Industri/ Perusahaan Rokok
+108,"Sinar Mahkota Mas, PR.",Jl. Simpang Tenaga Selatan,20,0,20,Industri/ Perusahaan Rokok
+109,Gunung Kawi Petis,Jl. Kyai Tamin 84,9,9,18,Industri/ Petis
+110,"Adi bungsu, PR.",Jl. Ki Ageng Gribig 1,49,165,214,Industri/ Rokok
+111,"Amiseta, PT.",Jl. Kol. Sugiono 572,15,596,611,Industri/ Rokok
+112,"Bumi Asih, PR.",Jl. Kubis 12,0,25,25,Industri/ Rokok
+113,"Dewi Fortuna, PR.",Jl. Kalianyar 22,6,36,42,Industri/ Rokok
+114,"Lembang Jaya, PR.",Sumbersari Barat 48,33,1,34,Industri/ Rokok
+115,"Lestari Putra Wirasejahtera, PT.",Jl. Terusan Halmahera 98-100,5,151,156,Industri/ Rokok
+116,"Ongkowidjoyo, PT.",Jl. Kol. Sugiono 80/ 28,30,602,632,Industri/ Rokok
+117,"Ongkowijoyo, PT.",Jl. Kol. Sugiono 136,39,1,40,Industri/ Rokok
+118,"Ongkowijoyo, PT.",Jl. Raya Gadang 60,87,57,144,Industri/ Rokok
+119,"Ongkowijoyo, PT.",Jl. Kol. Sugiono 61,12,0,12,Industri/ Rokok
+120,"PD. Tresno, PT.",Jl. Sonokeling,0,0,0,Industri/ Rokok
+121,"Sejahtera, CV.",Jl. M. Sungkono RT.3 RW.2,4,207,211,Industri/ Rokok
+122,"Sejahtera, CV.",Jl. Ki Ageng Gribig 466,5,182,187,Industri/ Rokok
+123,"Suburaman, PT.",Jl. Pulau Galang 2B,16,725,741,Industri/ Rokok
+124,Surya Mustika Nusantara,Jl. Ciliwung 7-7A,38,3,41,Industri/ Rokok
+125,"Tembakau Jayasakti Sari, PT.",Jl. Pattimura 50-54,106,115,221,Industri/ Rokok
+126,"Abadi Kurnia Citra Rasa, PT.",Jl. Wilis 1,15,10,25,Industri/ Roti
+127,Purimas 3 Roti Kue,Jl. Letjend. S. Parman 83,8,13,21,Industri/ Roti
+128,Roti Bima,Jl. M. Panjaitan 75,7,9,16,Industri/ Roti
+129,Roti Chatarina,Jl. Pattimura 22,4,14,18,Industri/ Roti
+130,Roti Gaya Baru,Jl. Laks. Martadinata 83,4,26,30,Industri/ Roti
+131,Roti Hawai,Jl. Basuki Rachmad 80B,3,3,6,Industri/ Roti
+132,Persh. Sabun Pasific,Jl. Niaga 3,6,6,12,Industri/ Sabun
+133,Saos Sumber Rasa,Jl. Simpang L. A. Sucipto 24,37,20,57,Industri/ Saos
+134,"Indonesian Tobacco, PT.",Jl. Letjend. S. Parman 92,255,154,409,Industri/ Tembakau
+135,CologneTissue Cool Clean,Jl. Raya Candi 5/754,18,95,113,Industri/ Tissu Basah
+136,PT. Glass Talk,Jl. Tenaga Baru No. 1-5,34,14,48,Industri
+137,PT. Surya Prastika Hutama,,23,10,33,Industri Makanan
+138,PT. Gunawan Sukses Abadi,Jl. Teluk Etna XIV Kav. 172,1,2,3,Industri
+139,"Andhika Jaya Security, PT.",Jl. Danau Bratan H1-Q36,7,2,9,Jasa
+140,Bar and Pub Nusantara,Jl. sukarno Hatta Ruko Taman Niaga Blok B-9 Malang,5,2,7,Jasa
+141,BLK-LN Anugerah Usaha Jaya,Jl. Teluk Pelabuhan Ratu 69,1,9,10,Jasa
+142,"Bringin Karya Sejahtera, PT",Jl. Laks. Martadinata 80,14,3,17,Jasa
+143,"Bringin Karya Sejahtera, PT",Jl. Ahmad Yani 106-107 Kepanjen,1,0,1,jasa
+144,"Bringin Karya Sejahtera, PT",Jl. Bromo 31,2,0,2,Jasa
+145,"Bringin Karya Sejahtera, PT",Jl. Letjen Sutoyo 105,3,0,3,Jasa
+146,"Cipaganti Citra Graha, PT.",Jl. Bend. Sutami,3,6,9,Jasa
+147,"Citra Indojaya Perkasa, PT.",Jl. Satsui Tubun 5B,94,14,108,Jasa
+148,"Citra Lestari Utama, PT.",Jl. Peltu Sujono 9A,10,2,12,Jasa
+149,"Dana Purna Investama, PT",Jl. Jendral Basuki Rahmad 70-74 Malang,18,2,20,Jasa
+150,"De Dua Mapan Sejahtera, PT.",Autowash Autocare Jl. Raya Tidar 32B,33,3,36,Jasa
+151,Dharmakerta Raharja,Jl. Teluk Pelabuhan Ratu 2/42,1,9,10,Jasa
+152,"Era Sejahtera Nusantara, PT.",Jl. Baiduri Pandan 15,2,0,2,Jasa
+153,Estetika Medika Utama (LBC) London Beaty Center,Jl. Kawi 39,3,16,19,Jasa
+154,"Fiesta Ria Permai, CV",Jl. Terusan Borobudur 86/Kav. 6-8 Malang,25,10,35,Jasa
+155,"Finansia Multi Finance, PT",Jl. S. Parman 54 A,58,23,81,Jasa
+156,"Garda Utama Nasional, PT",Jl. B.S Riadi 107 Malang,252,1,253,Jasa
+157,"Global Jaya Mulia, PT",Jl. Sebuku 65,12,2,14,Jasa
+158,Grand Pesona Karaoke Pub&Resto,Jl. P. Sudirman Ruko Rampal Kav. 18-19,18,4,22,Jasa
+159,"Groovy Masterindo, CV",Jl. Galunggung 6 Kav A-B,10,4,14,Jasa
+160,"Hanaco Succes, PT.",Perum Green Living Jl. H. Muhidin 7A,3,3,6,Jasa
+161,"Haryono Dian Perti, PT.",Jl. Kahuripan 22,3,7,10,Jasa
+162,Ika Raya Sentosa,Jl. Raya Bandulan 314,13,13,26,Jasa
+163,"Intrias Mandiri Sejati, PT",Jl. Terusan Borobudur 47G Malang,22,36,58,Jasa
+164,"Jalin Mitra Persada, PT.",Jl. Danau Bratan Raya 1,52,4,56,Jasa
+165,"Jasa Yasa, PD.",Jl. Basuki Rachmad 11,28,10,38,Jasa
+166,"Jaya Manggala Gatha, PT.",Jl. Ciliwung II/30 B,0,0,0,Jasa
+167,"Jolo Abadi, PT.",Jl. A. Yani 51 C,12,0,12,Jasa
+168,Karaoke keluarga Diva by Rosa,"Jl. Tangkuban Perahu 7 kav 2,3&4",34,14,48,Jasa
+169,"Kertagaya Pusaka, PT.",Jl. D. Toba B-28,22,2,24,Jasa
+170,Kertanegara Premium Guest House,Jl. Semeru 59,10,9,19,Jasa
+171,"Kharisma Sarana Jaya, PT.",Jl. Letjend. S. Parman 45,49,29,78,Jasa
+172,Klinik Argaraya Medika,Jl. Kalpataru 39,11,17,28,Jasa
+173,Klinik Karya Nusantara Medica,Jl. Maninjau Raya 33,6,8,14,Jasa
+174,"Kopesera Engineering , PT.",Ruko Gadang Asri Kav. 7 Jl. Kol. Sugiono,163,2,165,Jasa
+175,"Mahkota Citra Caturwira, PT",Jl. Letjend. Sutoyo 87,0,0,0,Jasa
+176,"Malang Multimedia Mandiri, PT.",Jl. Soekarno Hatta Kav A2,14,1,15,Jasa
+177,Megah Utama Kriya Nugraha.PT,Jl. Cakalang 5 A Malang,2,3,5,Jasa
+178,"Mitra Andalan Sejati, PT.",Jl. Danau Limboto Blok A5 No. C24,3,37,40,Jasa
+179,"Mitra Sinergi Sukses, PT.",Jl. M. Sungkono 77,7,21,28,Jasa
+180,"Mobile Telecom, PT.",Jl. A. Yani 10A,5,7,12,Jasa
+181,"Mutualplus Global Resources, PT",Jl.C Trowulan 1 Kav 2 dan 3,78,77,155,Jasa
+182,"Navagreen Indonesia, PT",Jl. B.S Riadi 165A Malang,7,19,26,jasa
+183,"Nayaka Kalyana, PT",Jl. Kol. Sugiono Ruko Gadang Regency Kav 3,1,2,3,Jasa
+184,"Nusa Sirna Perkasa, PT.",Jl. Danau Limboto Timur 2 Blok A.5/H.23 Malang,2,2,4,Jasa
+185,"Orientasari Mahkota, PT.",Jl. D. Sentani Raya C4E/27,0,0,0,Jasa
+186,"Pahala Arie Santosa, PT.",Jl. Letjend. S. Parman 36,9,0,9,Jasa
+187,"Pandemangan Semesta Lestari, PT.",Jl. Raya Arjowinangun 28,3,6,9,Jasa
+188,"Panorama Argotirta, PT.",Jl. Puncak Mandala 36,13,12,25,Jasa
+189,"Pegadaian (Persero), Cabang Sawojajar",Jl. Ki Ageng Gribig,5,3,8,Jasa
+190,"Perdana Perkasa Elastindo, PT",Ruko Soekarno Hatta kav 07 No.02 Malang,288,5,293,Jasa
+191,"Permodalan Nasional Mandiri (Perseroan), PT",Jl. S. P. Sudarmo 26 Malang,112,15,127,Jasa
+192,"Persada Multi Abadi, PT.",Jl. M.Panjaitan Dalam 32,31,5,36,Jasa
+193,Photo Pantai,Jl. Merdeka Timur 2 G,5,8,13,Jasa
+194,"Prima Hijau Lestari, PT.",Jl. Terusan Sulfat 28A Kav C2,26,1,27,Jasa
+195,"Prima Karya Sarana Sejahtera, PT.",Jl. Tumanggung Suryo 40C-D Malang,0,0,0,Jasa
+196,"Prime Line International, PT.",Jl. Mangun Sankoro 8,30,50,80,Jasa
+197,"Prismas Jamintara , PT",Ruko Istana Dinoyo B7 Jl. MT. Haryono 1A Malang,70,8,78,Jasa
+198,PT. Bank Mayapada Internasional,jl. A. Yani Ruko 50f Malang,9,4,13,Jasa
+199,PT. Nayaka Era Husada,Jl. Ciliwung 17 Malang,6,6,12,Jasa
+200,PT. Outsourcing Indonesia,Ruko Soekarno Hatta kav 07 No.02 Malang,15,6,21,jasa
+201,Ratmoko Suroso,Jl. L. A. Sucipto 282,20,13,33,Jasa
+202,"Rodem Apparel, PT.",Jl. D. Paniai Terusan H6-C16,3,4,7,Jasa
+203,RSIA Melati Husada,Jl. Kawi 32,0,0,0,Jasa
+204,"Ryanta Mitra Karina , PT.",Jl. K. H. Hasyim Ashari 20,0,0,0,Jasa
+205,"Sandhy Putra Makmur, PT.",Jl. D. Toba C/8,0,0,0,Jasa
+206,"Sawakarya Insan Mandiri, PT.",Jl. Ters. Sulfat 28 Kav. C-2,51,18,69,Jasa
+207,"Sinar Kencana Utama Mandiri, PT.",Perum Istana Dieng Utara I/38A,4,0,4,Jasa
+208,Sun Family Karaoke,Jl. Puncak Mandala 26 (tidar),6,2,8,Jasa
+209,Sunrise Language Center (SLC),Jl. Rukem 11A,5,4,9,Jasa
+210,"Surabaya Insan Mandiri, PT.",Jl. Terusan Sulfat 28A,32,6,38,Jasa
+211,"Surya Indah, UD.",Jl. C. Trowulan 5,14,20,34,Jasa
+212,Tiga Pilar Enta Lispro,Jl. Ki Ageng Gribig V/25,8,5,13,Jasa
+213,"Vivace Putra Utama,CV",Jl. D.Toba B-6,17,6,23,Jasa
+214,"Vivace,CV",Jl. Soekarno Hatta B 5-6,22,6,28,Jasa
+215,"Wachidi Development, PT",Jl. Andong 3,15,5,20,Jasa
+216,"Wiratanu Persada Tama,PT",Jl.Simp.Barito I/1,27,1,28,Jasa
+217,Yay. Putra Cendekia,Jl. D. Toba E VI/16-18,3,13,16,Jasa
+218,Yayasan Nusantara,Jl. Danau Toba,6,17,23,Jasa
+219,Yayasan Pendidikan Phylia,Jl. Tambora 11A,2,7,9,Jasa
+220,Yayasan Pinta,Jl. Lembah Dieng Blok C1-6 Malang,10,5,15,Jasa
+221,"Sumber Urip, PT.",Jl. Kebalen Wetan 23A,19,0,19,Jasa Angkutan
+222,"Sinar Mentari Gemilang, PT.",Jl. Halmahera 90A,11,3,14,Jasa Angkutan BBM
+223,AJB Bumi Putra 1912,Jl. J. A. Suprapto 83,22,0,22,Jasa Asuransi
+224,"Franki File Indonesia, PT.",Jl. Tenaga Baru II/10,11,19,30,Jasa Bordir
+225,Cabang Perum Pegadaian Malang,Jl. A. I. Suryani 2,19,10,29,Jasa Gadai
+226,Pegadaian Cab. Blimbing,Jl. Borobudur 10,20,11,31,Jasa Gadai
+227,Pegadaian Cab. Landungsari,Ruko Landungsari Indah Kav. 7,6,5,11,Jasa Gadai
+228,Pegadaian Cab. Tlogomas,Jl. MT. Haryono 104,14,4,18,Jasa Gadai
+229,Perum Pegadaian Cab. Kota Lama,Jl. Halmahera 09,17,8,25,Jasa Gadai
+230,Perum Pegadaian Cab. Syariah,Jl. Tlogomas 11,2,3,5,Jasa Gadai
+231,Tlogomas Indonesia Land,Jl. Baiduri Pandan 17,20,6,26,Jasa Hiburan
+232,"Pyxis Ultimate Solution, PT.",Jl. Bukit Dieng 3 E Kav 1-2,35,6,41,Jasa IT
+233,Oscar Premium Karaoke,Jl. SUkarno Hatta A 10,6,3,9,Jasa Karaoke
+234,Hardlent Medika Husada,Jl. Galunggung 65 Kav. 7-8,13,14,27,Jasa Kesehatan
+235,Laboratorium Klinik Sima,Jl. Ciliwung 51 Malang,9,16,25,Jasa Kesehatan
+236,Laboratorium Klinik Sima,Jl. Tangkuban Perahu 14,28,42,70,Jasa Kesehatan
+237,"Persada Medika Raya, PT.",Jl. Panji Suroso Komp. Araya Kav. 11/4,98,148,246,Jasa Kesehatan
+238,RS. Permata Bunda,Jl. Soekarno Hatta 75,23,81,104,Jasa Kesehatan
+239,RSB Nardi Waloeja Rempal,Jl. Wr. Supratman 01,0,27,27,Jasa Kesehatan
+240,RSIA Nardi Waloeja Kauman,Jl. Kauman 23,0,55,55,Jasa Kesehatan
+241,"Bank Nusantara Parahyangan, PT",Jl. J. A. Suprapto 67,0,0,0,Jasa Keuangan
+242,"Bank UOB Indonesia, Tbk, PT.",Jl. Letjen S. Parman 9 Blok 8-9,0,5,5,Jasa Keuangan
+243,"Pulau Mas Utama, PT.",Jl. M. Sungkono 35,13,0,13,Jasa Kontruksi
+244,"Teno Tract Indonesia, PT.",Jl. Raya Dieng,9,0,9,Jasa Kontruksi
+245,"Tri Mitra Lumba, PT.",Jl. A. Yani Utara Riverside BB 09,12,6,18,Jasa Kontruksi
+246,Yayasan Putra Cendekia Nusantara,Jl. D. Toba E-VI/16-18,6,17,23,Jasa Medis
+247,"Tiki Jalur Nugraha Eka Kurir, PT.",Jl. Hamid Rurdi 131,79,14,93,Jasa Paket
+248,Yayasan Kendedes,Jl. R. P. Suroso 6,8,56,64,Jasa Pendidikan
+249,"Franki File Indonesia, PT.",Jl. S. Parman 87-89,22,0,22,Jasa Pondasi
+250,Upaya Kelola Provitama,Jl. Kawi 24,54,16,70,Jasa Sewa Toko
+251,"Radio Mitra Adi Swara, PT.",Jl. Dr. Cipto 16,11,5,16,Jasa Siaran Radio
+252,"Serasi Autoraya, PT./ Daya Mitra Serasi, PT.",Jl. Karya Timur 8,169,0,169,Jasa Tansportasi Darat
+253,"Pahama Tunggal Prakarsa, PT.",Jl. Bend. Sempor Kav. 12-18,3,2,5,Jasa Teknik
+254,"Hutchson Cp. Telecom Indonesia, PT.",Ruko Istana Dinoyo A4,8,1,9,Jasa Telekomunikasi
+255,"Muchison Cp Telekomunication, PT.",Ruko Istana Dinoyo A-4 Jl. MT. Haryono 1,9,1,10,Jasa Telekomunikasi
+256,"Telekomunikasi Seluler, PT.",Jl. S. Parman 47,14,14,28,Jasa Telekomunikasi
+257,"Telesindo Shop, PT.",Jl. Bukit Barisan 3 Kav. 3,11,2,13,Jasa Telekomunikasi
+258,"Trikomsel Oke, PT.",Jl. Letjen S. Parman 56 Kav. A4,0,4,4,Jasa Telekomunikasi
+259,"XL Axiata, PT.",Jl. Letjend. S. Parman 111,4,1,5,Jasa Telekomunikasi
+260,"Superindo Semesta , PT.",Jl. D. Sentani Raya H1A-I9A,3,4,7,Jasa Tk
+261,BLK Sinergi Sukses,Jl. Mayjend Sungkono 77 Malang,0,11,11,Jasa TKI
+262,"Mitra Sasana Internasional, PT.",JL. Cakalang 17,0,0,0,Jasa TKI
+263,"Ijen Perwira, PT.",Jl. Simp. Panji Suroso 18,21,1,22,Jasa Transportasi
+264,"Garuda Indonesia Branch Office, PT.",Hotel Savana Jl. Letjend. Sutoyo,19,7,26,Jasa Transportasi/ Tiket GIA
+265,"Putra Mentari, PT.",Jl. Palmera XIX / Blok S-2,53,50,103,Jasa/ AC
+266,Bengkel Gajahmada,Jl. Peltu Sujono 14,32,2,34,Jasa/ Bengkel
+267,Bengkel Glory,Jl. A. Yani 142,31,4,35,Jasa/ Bengkel
+268,Bengkel Jaya,Jl. Janti Barat 10,5,0,5,Jasa/ Bengkel
+269,Bengkel Karya Kita,Jl. Ki Ageng Gribig 1 (0341)710732,12,2,14,Jasa/ Bengkel
+270,Bengkel Rukun,Jl. A. Yani Utara 143,5,1,6,Jasa/ Bengkel
+271,Delta Mas,Jl. Karya Timur 68-72,52,1,53,Jasa/ Bengkel
+272,"Siswoyo, Bengkel",Jl. RT. Suryo 102,14,2,16,Jasa/ Bengkel
+273,Sumber Agung,Jl. Muharto Timur 2,20,2,22,Jasa/ Bengkel
+274,"Karunia Jaya, CV.",Jl. Simpang LA. Sucipto 10,56,2,58,Jasa/ Bengkel Besi
+275,"Amalia Rozikin Jaya, BLK-LN, PT.",Jl. Kalimosodo I/23,3,7,10,Jasa/ BLK-LN
+276,BLK-LN Sasana Bina Karya,Jl. Simp. Terusan Wiriaga Kav. 10-12,3,5,8,Jasa/ BLK-LN
+277,"Indra Karya Wilayah I, PT.",Jl. Surabaya 3A,66,10,76,Jasa/ Consultant Engineering
+278,"Mulia Aji Sakti, PT.",Jl. Basuki Rachmad 47,9,3,12,Jasa/ Elektro
+279,Super Star,Jl. Semeru 34,7,7,14,Jasa/ Fotocopy
+280,Araya Megah Abadi Golf,Jl. Lawang Sewu Golf 2-18 Kompl. Araya,116,59,175,Jasa/ Golf
+281,hotel the graha cakra,jl. cerme 16,62,21,83,Jasa/ Hotel
+282,"Adi Buana, CV.",Jl. Kawi 34 (MOG),25,15,40,Jasa/ Karaoke
+283,Doremi Family Karaoke,Ruko Candi Trowulan Kav. 8-12,20,24,44,Jasa/ Karaoke
+284,"Imperium Happy Puppy, PT.",Ruko Taman Niaga B7/8 Jl. Soekarno Hatta,0,0,0,Jasa/ Karaoke
+285,Istana Dieng Karaoke,Jl. Istana Dieng Raya III,23,4,27,Jasa/ Karaoke
+286,Nada Suara Abadi (Nav 3),Jl. Veteran 8 (MX Mall Lt. 2),18,6,24,Jasa/ Karaoke
+287,Studio One Karaoke Keluarga,Jl. Terusan Borobudur 88A-B,0,0,0,Jasa/ Karaoke
+288,Vivace Family Karaoke Café,Ruko Taman Niaga B-5-6,25,7,32,Jasa/ Karaoke
+289,"Adi Putro Wirasejati, PT.",Jl. Raya Balearjosari 35,788,12,800,Jasa/ Karoseri
+290,Pemotongan Kertas Bagio,Jl. Pulau Sayang 26 (0341) 367877,3,4,7,Jasa/ Kertas
+291,"Grahadhika Sarana Purnajati, PT.",Jl. Semeru 66,5,30,35,Jasa/ Klinik Kecantikan
+292,Kasih Karunia Sejati/ RDC,Jl. Bandulan Barat 17,112,113,225,Jasa/ Konveksi
+293,Hollywood sister,Jl. Tenaga Dalam 4,14,32,46,Jasa/ Kosmetik
+294,"Natasha Pesona Mandiri, CV.",Jl. Soekarno Hatta PTP I/No. 1 Kav. 5-6,4,19,23,Jasa/ Kosmetik/ Salon
+295,"Natasha Pesona Mandiri, CV.",Jl. Bondowoso 19,6,18,24,Jasa/ Kosmetik/ Salon
+296,Kursus Pembina Nusantara,Jl. Simpang Tambora I/7,5,8,13,Jasa/ Kursus
+297,Natuna,Jl. B. S. Riyadi 2A,10,2,12,Jasa/ Kursus Mengemudi
+298,Higina Medical Centre,Jl. Kaliurang 30,6,12,18,Jasa/ Lab. Kesehatan
+299,Lab. Klinik Bromo,Jl. Bromo 49,4,18,22,Jasa/ Lab. Kesehatan
+300,Lab. Klinik Pattimura,Jl. Patimura 17,5,20,25,Jasa/ Lab. Kesehatan
+301,Lab. Prodia,Jl. Merbabu 10,11,48,59,Jasa/ Lab. Kesehatan
+302,"Mavens Mitra Perkasa, PT.",Perum Permata Jingga AA-27,8,0,8,Jasa/ LPTKS
+303,"Pabrik Mesin Guntur, CV.",Jl. Kol. Sugiono 14,103,3,106,Jasa/ Mesin
+304,"Arina Multikarya, PT.",Jl. Mawar Jambe 13,24,44,68,Jasa/ Outsourching
+305,"Cahaya Utama, PT.",Jl. Cakalang 102A,526,19,545,Jasa/ Outsourching
+306,"Cipta Sandhi Dharma , PT.",Villa Gunung Buring U/18,0,0,0,Jasa/ Outsourching
+307,Golden Lotus Universal,Jl. Retawu 29 Ruko A1,23,5,28,Jasa/ Outsourching
+308,"Haleris Karya Mandiri, PT.",Jl. Simp. D. Maninjau Sel. I/D2-3,106,14,120,Jasa/ Outsourching
+309,"Kinerja Sejahtera Utama, PT.",Jl. D. Toba G3 Malang,19,3,22,Jasa/ Outsourching
+310,"Komitmen, PT.",Jl. Terusan Wijaya Kusuma 04 Malang,50,1,51,Jasa/ Outsourching
+311,"Optima Kharya Capital Security, PT.",Jl. Merapi 5,0,0,0,Jasa/ Outsourching
+312,"Pandu Abdi Pertiwi, PT",Jl. Terusan Wijaya Kusuma Atas 22,0,2,2,Jasa/ Outsourching
+313,"Pandu Mitra Selaras, PT.",Jl. Teluk Cendrawasih 45,100,17,117,Jasa/ Outsourching
+314,Persada Multikarya Adiguna,Perum Villa Bukit Tidar Blok A4/255,2,0,2,Jasa/ Outsourching
+315,"Rajawali Catur Perkasa, PT.",Jl. Bango 26,12,2,14,Jasa/ Outsourching
+316,sumberdaya Dian Mandiri,ruko citandui jl SP sudarmo 31 D,19,5,24,Jasa/ Outsourching
+317,"Wis (Werbel Indonesia Services) , PT.",Jl. Timah 01 Malang,294,47,341,Jasa/ Outsourching
+318,"Intan Pramadita, PT.",Jl. Kemirahan I/1,413,16,429,Jasa/ Outsourcing
+319,"Mahakam Kencana Intan Padi, PT.",Jl. Perum Sukun Tirtasari 8,181,1,182,Jasa/ Outsourcing
+320,"Rajawali Security Service, PT.",Jl. Sambas 11A,176,18,194,Jasa/ Outsourcing
+321,Puri Bhakti Karya,Malang,6,1,7,Jasa/ Outsourcing
+322,"Titipan Kilat Malang Jaya, CV.",Jl. A. R. Hakim 3,25,6,31,Jasa/ Paket
+323,Bintang Jaya,Jl. BS. Riyadi 99,2,6,8,Jasa/ Pemotongan kertas
+324,"Eduka Bahasa Utama (English First) , PT.",Jl. Merbabu 38,10,13,23,Jasa/ Pendidikan
+325,Yay. Sekolah International Wesley,Jl. Simp. Kwoka 1,30,28,58,Jasa/ Pendidikan
+326,Yayasan Anugerah Oasis Ind.,J. Salahutu No. 10,0,6,6,Jasa/ Pendidikan
+327,Yayasan Bina Bangsa Sehati,Jl. A. Yani Utara Riverside Blok AA/1,19,37,56,Jasa/ Pendidikan
+328,Aneka Grafika,Jl. Saxophone,0,0,0,Jasa/ Percetakan
+329,Libra Offset,Jl. Janti Barat 34,0,0,0,Jasa/ Percetakan
+330,Parfa Print,Jl. Aris Munandar 3,12,3,15,Jasa/ Percetakan
+331,Percetakan Aloma,Jl. Yulius Usman 29,13,4,17,Jasa/ Percetakan
+332,Percetakan Alvita,Jl. Janti Barat Blok A,9,5,14,Jasa/ Percetakan
+333,Percetakan Borneo,Jl. Tenaga Baru IV/1,19,13,32,Jasa/ Percetakan
+334,Percetakan Credo,Jl. Tenaga baru IV/10,36,17,53,Jasa/ Percetakan
+335,Percetakan Gracia,Jl. Niaga 11,56,26,82,Jasa/ Percetakan
+336,Percetakan Indah,Jl. Basuki Rachmad 8/46,14,1,15,Jasa/ Percetakan
+337,Perctk. Karya Grafika Ind.,Jl. Kaliurang Barat 94A,43,24,67,Jasa/ Percetakan
+338,Tunggal Murni Offset,Jl. Tenaga Utara 11,11,9,20,Jasa/ Percetakan
+339,"Tirta Harapan, PT.",Jl. Bromo 25,4,0,4,Jasa/ Perkebunan
+340,Perkumpulan Sosial Panca Budhi,Jl. Laks. Martadinata 70,20,5,25,Jasa/ Persemayanan Jenazah
+341,Sinar Sarana Sentosa,PBI Blok M1/04,32,3,35,Jasa/ Peternakan ayam
+342,"Rhukamp Ind, PT.",Riverside D-310,0,0,0,Jasa/ PJK3
+343,"Alkurnia Sentosa International, PT.",Jl. S. Supriyadi 34,2,3,5,Jasa/ PJTKI
+344,"Amalia Razikin Jaya, PT.",Jl. Negara 5,4,6,10,Jasa/ PJTKI
+345,"Antar Tenaga Mandiri, PT.",Jl. Ngantang 44,4,5,9,Jasa/ PJTKI
+346,"Anugerah Usaha Jaya, PT.",Jl. Teluk Etna Kav. IV/36,8,5,13,Jasa/ PJTKI
+347,"Berkat Sukses Makmur Sejahtera, PT.",Jl. M. Sungkono 108,9,24,33,Jasa/ PJTKI
+348,"Bina Dinamita Rama, PT.",Jl. Bunga Maya 16,6,5,11,Jasa/ PJTKI
+349,"Binamandiri Mulia Raharja, PT.",Jl. Kartini 19A,7,13,20,Jasa/ PJTKI
+350,"Citra Abdi Nusa, PT.",Jl. R. Intan 99,5,7,12,Jasa/ PJTKI
+351,"Citra Karya Sejati, PT.",Jl. Raya Sawojajar 44,2,5,7,Jasa/ PJTKI
+352,"Eka Jasa Alim Prima, PT",Jl. Kol. Sugiono 40,4,9,13,Jasa/ PJTKI
+353,"Falia Sinatrya Sejati, PT.",Jl. Selorejo Blok A/2,4,3,7,Jasa/ PJTKI
+354,"Gunakarya Insan Mandiri, PT.",Jl. Metro 7,2,7,9,Jasa/ PJTKI
+355,"Hendrata Argaraya, PT.",Jl. Papa Hijau 21,1,14,15,Jasa/ PJTKI
+356,"Iin Era Sejahtera, PT.",Jl. Cilosari No. 2 Malang,2,5,7,Jasa/ PJTKI
+357,"Median Utama, PT.",Jl. Kalimosodo 11,2,0,2,Jasa/ PJTKI
+358,"Mensa Bina Sukses, PT.",Jl. Janti Barat Blok A No 48,53,21,74,Jasa/ PJTKI
+359,"Parco Laut, PT.",Jl. Teluk Pelabuhan Ratu 43,1,3,4,Jasa/ PJTKI
+360,"Permata Gobel Karya Sejahtera, PT.",Jl. Raya Madyopuro 36,0,0,0,Jasa/ PJTKI
+361,"Prima Duta Sejati, PT.",Jl. Karya Timur 21,6,10,16,Jasa/ PJTKI
+362,"Sampeang Alifid Mandiri, PT.",Jl. Simpang L. A. Sucipto 9,2,5,7,Jasa/ PJTKI
+363,"Sekar Tanjung Lestari, PT",Jl. Teluk Etna IX/158,0,5,5,Jasa/ PJTKI
+364,"Sekar Tanjung Lestari, PT.",Jl. Teluk Kendari 22,2,3,5,Jasa/ PJTKI
+365,"Tritama Binakarya, PT.",Jl. Ki Ageng Gribig 299,6,20,26,Jasa/ PJTKI
+366,"Serumpun Maju Bersama, PT.",Jl. D. Kerinci Raya C 28-10/11,5,14,19,Jasa/ PPTKIS
+367,"Sinergi Bina Karya, PT.",Jl. Metro 7,1,7,8,Jasa/ PPTKIS
+368,"Surabaya Yudha Citra Perdana, PT.",Jl. Raya Madyopuro 33,3,8,11,Jasa/ PPTKIS
+369,Puskop Pernet Jatim,Jl. Industri Timur H/ 36A,5,10,15,Jasa/ Puskop/ Outsourching
+370,"Radio Kharisma Dian Swara, PT.",Jl. Raya Langsep Barat Kav. 30,19,4,23,Jasa/ Radio
+371,"RPH. Kota Malang, PD.",Jl. Kol. Sugiono 176,0,0,0,Jasa/ RPH
+372,"Hermina Tangkuban Prahu, RSIA.",Jl. Tangkuban Prahu 33,46,272,318,Jasa/ RS
+373,"Husada Bunda, RSIA.",Jl. Pahlawan Trip 2,16,74,90,Jasa/ RS
+374,"Lavalette, RS.",Jl. W. R. Supratman 10,130,237,367,Jasa/ RS
+375,"Manu Husada, RS.",Jl. Sultan Agung 10-12,12,29,41,Jasa/ RS
+376,"Mardi Waluyo, RSIA.",Jl. Kauman 23,8,61,69,Jasa/ RS
+377,"Mardi Waluyo, RSIA.",Jl. W. R. Supratman 01,5,30,35,Jasa/ RS
+378,"Mutiara Medika, PT.",Jl. Ciujung 10,12,59,71,Jasa/ RS
+379,Refa Husada,Jl. M. Sungkono 9,14,32,46,Jasa/ RS
+380,RSIA Muhammadiyah Malang,Jl. KH. Wahid Hasyim 26-30,4,34,38,Jasa/ RS
+381,"Unisma, RSI.",Jl. MT. Haryono 139,70,188,258,Jasa/ RS
+382,"Selaput Pelangi Nusantara, PT.",Jl. Dr. Cipto 3,15,14,29,Jasa/ RS Mata
+383,RSIA Puri Bunda/ PT. Putraning Husada,Jl. Simp. Sulfat Utara 60A,11,30,41,Jasa/ RSIA
+384,"Panti Nirmala, RS.",Jl. Kebalen Wetan 2-8,93,448,541,Jasa/ Rumah Sakit
+385,"Panti Waluyo Sawahan, RS.",Jl. Nusakambangan 56,89,423,512,Jasa/ Rumah Sakit
+386,"Puri Aranda, CV.",Taman Slamet 20,4,14,18,Jasa/ Rumah Sakit
+387,RS. Panti Waluya Sawahan,Jl. Nusa Kembangan 56,67,381,448,Jasa/ Rumah Sakit
+388,RSI. Aisyiyah Malang,Jl. Sulawesi 16,85,182,267,Jasa/ Rumah Sakit
+389,Esther House of Beauty,Jl. Yulius Usman 64,2,11,13,Jasa/ Salon
+390,Gester Istana Gaun,Jl. Semeru 49,0,40,40,Jasa/ Salon
+391,Jonatan,Jl. Bondowoso 15B,14,41,55,Jasa/ Salon
+392,Klinik Pelangsing dan Kecantikan Pacific,Jl. BS. Riadi 13,1,9,10,Jasa/ Salon
+393,Larissa Aesthetic Centre,Jl. Bandung 22,2,21,23,Jasa/ Salon
+394,Martha Tilaar Salon Day Spa,Jl. Semeru 48,2,7,9,Jasa/ Salon
+395,Tinara Istana Gaun,Jl. Wilis 33,8,39,47,Jasa/ Salon
+396,Seleb Sumber Urip,Jl. M. Sungkono 85,18,2,20,Jasa/ Seleb
+397,SPBU,Jl. Trunojoyo 21,20,4,24,Jasa/ SPBU
+398,"Indosat, PT.",Jl. Jagung Suprapto 47,43,41,84,Jasa/ Telekomunikasi
+399,"Smart Telecom, PT.",Jl. Coklat 15,47,27,74,Jasa/ Telekomunikasi
+400,"Telekomunikasi Indonesia Tbk, PT.",Jl. A. Yani 11,0,0,0,Jasa/ Telkom
+401,"Pasopati, PT.",Jl. Basuki Rachmad 11E,14,6,20,Jasa/ Ticket/ Travel Biro
+402,"Daya Semesta Raya, PT.",Jl. Panji Suroso Blok A12B,2,3,5,Jasa/ TKI
+403,Dinoyo Putra Transportation,Jl. Laks. Martadinata 109,45,6,51,Jasa/ Transportasi
+404,"Bandara Mega Persada / Terminal Tiket, PT.",Ruko Soekarno Hatta Permai 2,22,9,31,Jasa/ Travel Agen
+405,"Damma Joti, PT.",Jl. Ciliwung 57E,9,3,12,Jasa/ Tv
+406,"Malteve, PT.",Puncak Jaya Agung RT. 05 RW.07 Genting Merjosari,0,0,0,Jasa/ TV
+407,JMG Variasi,Jl. Letjen S. Parman 115,17,7,24,Jasa/ Variasi Mobil
+408,Sekolah Pj. Global School,Permata Jingga Blok Anggrek Boulevard,27,9,36,Jasa/ Yayasan Pendidikan
+409,Yay. Charis Indonesia,Jl. Telaga Bodas 1,44,53,97,Jasa/ Yayasan Sosial/ Pendidikan
+410,Meubel Harry,Jl. A. Yani 140,23,2,25,Jasa/Meubel
+411,Citra Perdana Kendedes,Jl. Bunga Merak 2,35,2,37,Jasa/Taxi
+412,"Amitra Mahesa Prima, PT",Jl. Ters. Wijaya Kusuma Ates 2,0,0,0,PPTKIS
+413,PT. Cipta Ayu Abadi,Jl. Retawu No. 8,2,14,16,Jasa
+414,PT. Nusantara Vision,,3,0,3,Jasa/Telekomunikasi
+415,"PT. MNC Sky Vision, Tbk",,13,5,18,Jasa/Telekomunikasi
+416,PT. Mafan Samudera Jaya,"Jl. Musi 23A Blimbing, Malang",2,2,4,Jasa
+417,"Adira Dinamika Multi Finance, Tbk. PT.",Jl. Dieng 32,36,13,49,Keuangan
+418,"Asuransi Jaya Proteksi, PT",Jl. WR. Supratman Komplek Ruko C3 Kav.8 Malang,7,2,9,Keuangan
+419,"Asuransi Jiwa Inhealth Indonesia, PT.",Jl. WR. Supratman C.1 Kav.8 Malang,1,3,4,Keuangan
+420,"Bank Central Asia, KCP Dinoyo, PT",JL. MT Haryono 160 Malang,5,5,10,Keuangan
+421,"Bank Central Asia, KCP Gatut Subroto",Jl. Gatot Subroto 21D Malang,6,2,8,keuangan
+422,"Bank Comenwealt, PT.",Jl. Basuki Rahmad 81 Malang,0,0,0,Keuangan
+423,"Bank Mega Kcp Malang Borobudur, PT.",Jl. Borobudur 11 Malang,0,0,0,Keuangan
+424,"Bank Mega Kcp Malang Dinoyo, PT.",Jl. MT. Haryono 140 Malang,0,0,0,Keuangan
+425,Bank Mega Kcp Malang Kawi,Jl. Terusan Kawi 2A Malang,0,20,20,Keuangan
+426,"Bank Mega Kcp Malang Kyai Tamin, PT.",Jl. Kyai Tamin 35-41 Malang,0,0,0,Keuangan
+427,"Bank Mega Syariah, PT.",Jl. Kertanegara Malang,0,0,0,Keuangan
+428,"BCA finance, PT.",Jl. Kawi Atas 36D Malang,4,6,10,Keuangan
+429,"Binayasa Karya Pratama Unit Malang, PT.",Gedung Baru BTN Jl. Ade Irma Suryani No2-4,96,3,99,Keuangan
+430,"BRI Unit Madyopuro, PT.",Jl. Raya Madyopuro,7,13,20,Keuangan
+431,"BRI, PT.",Jl. Tamrin 35A,5,14,19,Keuangan
+432,CIMB Niaga Auto Finsnce,Ruko S. Parman Megah Kav. 2/56,24,5,29,Keuangan
+433,"Dipostar Finance, PT.",Jl. Terusan Dieng 65 Malang,11,8,19,Keuangan
+434,"ITC Auto Multi Finance, PT.",Jl. Ciliwung 57 H,22,0,22,Keuangan
+435,KPRI Tirta Dharma,Jl. Ters. Danau Sentani 100,81,6,87,Keuangan
+436,"Panin Bank Syariah, PT.",Jl. MGR Sugiopranoto,11,4,15,Keuangan
+437,"Swadharma Sarana Informatika, PT.",Jl. Limboto A.5 K.1,14,1,15,Keuangan
+438,"Swapro International (WOM) , PT.",Jl. Soekarno Hatta Kav A2 1-2 Malang,29,0,29,Keuangan
+439,PT. Bank BRI Syariah KC.,Jl. Raya Tlogomas No.34,26,12,38,Keuangan
+440,PT. Bank BNI Syariah,Jl. Gatot Subroto No. 116,10,4,14,Keuangan
+441,"Asuransi Adira Dinamika, PT.",Jl. Letjend. Sutoyo 123A,6,6,12,Keuangan/ Asuransi
+442,"Asuransi Astra Buana Cab. Malang, PT.",Jl. Letjend. Sutoyo 1,11,5,16,Keuangan/ Asuransi
+443,"Asuransi Bintang, Tbk, PT.",Jl. Bromo 11,8,2,10,Keuangan/ Asuransi
+444,"Asuransi Jiwa Central Asia Raya, PT.",Jl. J. A. Suprapto 72A-B,2,4,6,Keuangan/ Asuransi
+445,"Asuransi Jiwasraya, PT.",Jl. Merdeka Barat 4,9,5,14,Keuangan/ Asuransi
+446,"Bank Antar Daerah, PT.",Jl. Basuki Rachmad 16,13,20,33,Keuangan/ Bank
+447,"Bank Antar Daerah, PT.",Jl. A. Yani 20 J,1,5,6,Keuangan/ Bank
+448,Bank BNI Syariah Cab Malang,Jl. Jagung Suprapto 48,40,52,92,Keuangan/ Bank
+449,Bank Bukopin,Jl. Semeru 35,63,42,105,Keuangan/ Bank
+450,"Bank Central Asia Kudusan, PT.",Jl. K. H. Zainul Arifin 78,6,6,12,Keuangan/ Bank
+451,"Bank Central Asia P. Sudirman, PT.",Jl. P. Sudirman 27,6,5,11,Keuangan/ Bank
+452,"Bank Central Asia. Kawi, PT.",Jl. Kawi Atas 36 D,3,8,11,Keuangan/ Bank
+453,"Bank CIMB Niaga, Tbk, PT.",Jl. Basuki Rachmad 26-28,54,88,142,Keuangan/ Bank
+454,Bank CNB,Jl. Zainul Arifin 100,6,10,16,Keuangan/ Bank
+455,"Bank Danamon Ind, PT",Jl. Letjend Sutoyo 124,1,7,8,Keuangan/ Bank
+456,"Bank Danamon Ind, PT",Jl. Sultan Syahrir 15 (A-B),8,13,21,Keuangan/ Bank
+457,"Bank Danamon Ind, Tbk , PT.",Jl. Kawi 15,19,27,46,Keuangan/ Bank
+458,"Bank Danamon Indonesia, PT.",Jl. M. T. Haryono Komplek Ruko Dinoyo Permai Kav. 5,32,10,42,Keuangan/ Bank
+459,"Bank Ekonomi Raharja, PT.",Jl. Pasar Besar 99,11,14,25,Keuangan/ Bank
+460,"Bank Eksekutif International, PT.",Jl. Basuki Rahmad 76,0,0,0,Keuangan/ Bank
+461,"Bank Himpunan Saudara 1906, PT., Tbk",Jl. Letjend. Sutoyo 27B,8,12,20,Keuangan/ Bank
+462,Bank Internasional Indonesia,jl. kyai tamin 22 B,1,6,7,Keuangan/ Bank
+463,Bank Internasional Indonesia,jl soekarno hatta A10 kav 7,2,50,52,Keuangan/ Bank
+464,Bank Internasional Indonesia,jl basuki rahmad 91-93,22,26,48,Keuangan/ Bank
+465,Bank Internasional Indonesia,jl. kawi II,3,7,10,Keuangan/ Bank
+466,"Bank Jatim, PT.",Jl. Jagung Supapto 26-28,58,45,103,Keuangan/ Bank
+467,"Bank Mandiri (Perseri), PT, Tbk. Outlet Prioritas Malang Merdeka",Jl. Merdeka Barat 1,16,12,28,Keuangan/ Bank
+468,"Bank Maspion Ind, PT.",Jl. Zainul Arifin 91-93,14,14,28,Keuangan/ Bank
+469,Bank Mayapada,Jl. Kyai Tamin 54,2,9,11,Keuangan/ Bank
+470,"Bank Mega, Tbk, PT.",Jl. Jagung Suprapto 27,17,13,30,Keuangan/ Bank
+471,"Bank OCBC NISP, PT.",Jl. J. A. Suprapto 41,33,45,78,Keuangan/ Bank
+472,"Bank Panin, Tbk, PT.",Jl. Sultan Agung 14,24,36,60,Keuangan/ Bank
+473,"Bank Pasar Sumber Arto, PT.",Jl. KH. A. Dahlan 26,6,8,14,Keuangan/ Bank
+474,"Bank Pasar Trikarya Waranugraha, PT.",Jl. J. A. Suprapto 36,28,28,56,Keuangan/ Bank
+475,"Bank Permata, Tbk, PT.",Jl. Borobudur 15,1,5,6,Keuangan/ Bank
+476,"Bank Permata, Tbk, PT.",Jl. A. I. Suryani A3-9-11,1,6,7,Keuangan/ Bank
+477,"Bank Permata, Tbk, PT.",Jl. Bromo 20,1,13,14,Keuangan/ Bank
+478,"Bank Pundi Indonesia, Tbk, PT.",Jl. Basuki Rachmad 76,73,22,95,Keuangan/ Bank
+479,"Bank Robobank Internasional, PT.",Jl. Pasar Besar 55,9,13,22,Keuangan/ Bank
+480,"Bank Sinarmas, Tbk, PT.",Jl. Basuki Rachmad 58,36,37,73,Keuangan/ Bank
+481,"Bank Syariah BRI, PT.",Jl. Kawi 37,24,16,40,Keuangan/ Bank
+482,"Bank Syariah Mega Indonesia, PT.",Jl. Kertanegara 5,28,14,42,Keuangan/ Bank
+483,"Bank Syariah Muamalat Ind, Tbk, PT.",Jl. Kawi Atas 36A,52,26,78,Keuangan/ Bank
+484,"Bank UOB Buana, Tbk, PT.",Jl. Basuki Rachmad 63,16,9,25,Keuangan/ Bank
+485,"Bank UOB Buana, Tbk, PT.",Jl. Gatot Subroto 21E,1,5,6,Keuangan/ Bank
+486,"BCA Blimbing, PT.",Jl. A. Yani 83,7,7,14,Keuangan/ Bank
+487,"BCA Borobudur, PT.",Jl. Borobudur Ruko Kav. 3 B-E,23,29,52,Keuangan/ Bank
+488,"BCA Finance, PT.",Jl. P. Sudirman 27,6,5,11,Keuangan/ Bank
+489,"BCA Galunggung, PT.",Jl. Galunggung 78,2,7,9,Keuangan/ Bank
+490,"BCA Kanwil VII Malang, PT.",Jl. Basuki Rahmad 70-74,88,68,156,Keuangan/ Bank
+491,"BCA KCU Malang, PT.",Jl. Basuki Rahmad 70-74,54,58,112,Keuangan/ Bank
+492,"BCA Kyai Tamin, PT.",Jl. Kyai Tamin 110,5,2,7,Keuangan/ Bank
+493,"BCA Sukun, PT.",Jl. Supriyadi 65,5,3,8,Keuangan/ Bank
+494,"BCA. Dinoyo, PT.",Jl. MT. Haryono 160,5,6,11,Keuangan/ Bank
+495,"BCA. Gatot Subroto, PT.",Jl. Gatoto Subroto 21 D,5,3,8,Keuangan/ Bank
+496,"BII, PT.",Jl. Kawi 11,3,7,10,Keuangan/ Bank
+497,"BII, PT.",Jl. Basuki Rahmad 91/93,21,27,48,Keuangan/ Bank
+498,"BII, PT.",Jl. Soekarno Hatta A-10 Kav 07,1,5,6,Keuangan/ Bank
+499,"BII, PT.",Jl. Kyai Tamin 22 B,0,5,5,Keuangan/ Bank
+500,"BNI Persero, Tbk, PT.",Jl. Basuki Rachmad 75-77,125,87,212,Keuangan/ Bank
+501,"BPR Eka Dana Utama, PT.",Jl. MT. Haryono 131A,6,4,10,Keuangan/ Bank
+502,BPR. Armindo Kencana,Jl. Laks. Martadinata 42 G-H,76,32,108,Keuangan/ Bank
+503,"BPR. Gunung Arjuno, PT.",Jl. Basuki Rahmad 65,26,18,44,Keuangan/ Bank
+504,"BPR. Gunung Ringgit, PT.",Jl. Raya Dinoyo 163A,43,22,65,Keuangan/ Bank
+505,BRI KCP Galunggung,Jl. Raya Galunggung Kav i-j No. 58,4,6,10,Keuangan/ Bank
+506,"BRI Kcp Sukun, PT.",Jl. S. Supriyadi 172,12,8,20,Keuangan/ Bank
+507,"BRI Persero Tbk, PT.",Jl. Letjen Sutoyo 105,8,6,14,Keuangan/ Bank
+508,"BRI Purwantoro, PT.",Jl. R.T. Suryo 108,4,5,9,Keuangan/ Bank
+509,"BRI Syariah, PT.",Jl. Kawi 37,0,0,0,Keuangan/ Bank
+510,"BRI Tawangmangu, PT.",Jl. Sarangan Atas 21 C,5,7,12,Keuangan/ Bank
+511,"BRI Tbk, PT",Jl. A. Yani Utara Ruko de Panorama Square Kav. A6-A8,87,15,102,Keuangan/ Bank
+512,"BRI Unit Adi Sucipto, PT.",Jl. L. A. Sucipto 147,6,8,14,Keuangan/ Bank
+513,"BRI Unit Blimbing, PT.",Ruko Borobudur 8 CD,11,12,23,Keuangan/ Bank
+514,BRI Unit Bunul,Jl. Hamid Rusdi 115,4,12,16,Keuangan/ Bank
+515,"BRI Unit Dinoyo, PT.",Jl. MT. Haryono 117,6,7,13,Keuangan/ Bank
+516,"BRi Unit Gatot Subroto, PT.",Jl. Laks. Martadinata 30,8,6,14,Keuangan/ Bank
+517,"BRI Unit Klojen, PT.",Jl. Pattimura Ruko 16,2,3,5,Keuangan/ Bank
+518,"BRI Unit Madyopuro, PT.",Jl. Ki Ageng Gribig,4,1,5,Keuangan/ Bank
+519,"BRI Unit Mergosono, PT.",Jl. Kol. Sugiono 188,4,8,12,Keuangan/ Bank
+520,BRI Unit Merjosari,Jl. Sunan Kalijaga Kav C-4,8,9,17,Keuangan/ Bank
+521,"BRI Unit Oro-Oro Dowo, PT.",Jl. BS. Riyadi 186,7,8,15,Keuangan/ Bank
+522,"BRI Unit Psr Besar, PT.",Jl. Kapt. Piere Tendean Ruko 26 C,7,7,14,Keuangan/ Bank
+523,"BRI Unit Soekarno Hatta, PT.",Jl. Soekarno Hatta Kav. II/4,3,5,8,Keuangan/ Bank
+524,"BRI Unit Sukun, PT.",Jl. Supriyadi 44,8,12,20,Keuangan/ Bank
+525,BRI Unit Sulfat,Jl. Terusan Sulfat 14,3,5,8,Keuangan/ Bank
+526,"BRI Unit Sumbersari, PT.",Jl. Bend. Sutami Ruko Kav. 04,4,7,11,Keuangan/ Bank
+527,"BRI Unit Tanjungrejo, PT.",Jl. I. R. Rais 119 E,8,12,20,Keuangan/ Bank
+528,"BRI, PT.",Jl. Kawi 22,109,96,205,Keuangan/ Bank
+529,"BRI, PT.",Jl.Laks Martadinata 80,131,60,191,Keuangan/ Bank
+530,"BTN (Persero) Cab. Malang, PT.",Jl. A. I. Suryani 2-4,54,76,130,Keuangan/ Bank
+531,"BTN, PT.",Jl. Bandung 40,62,26,88,Keuangan/ Bank
+532,"BTPN, PT.",Jl. Jagung Suprapto 63,40,35,75,Keuangan/ Bank
+533,"Commonwealth, PT.",Jl. Basuki Rachmad 81,12,8,20,Keuangan/ Bank
+534,Rabo Bank International/ Bank Hagakita,Jl. Pasar Besar 55,9,8,17,Keuangan/ Bank
+535,"Sinarmas Bank, Tbk., PT",Jl. Jagung Suprapto 40 Ruko B-3,5,6,11,Keuangan/ Bank
+536,"Adira Quantum Multifinance, PT.",Jl. Dr. Cipto Kav. 5&6 Rampal Claket Klojen Malang,35,29,64,Keuangan/ Finance
+537,"Anugerah Buana Central Multifinance, PT.",Jl. R. T. Suryo 34,14,4,18,Keuangan/ Finance
+538,"Astra Multi Finance, PT.",Jl. Letjend. S. Parman 58,12,8,20,Keuangan/ Finance
+539,"Astra Sedaya Finance, PT.",Jl. J. A. Suprapto 28,53,11,64,Keuangan/ Finance
+540,"Austindo Nusantara Jaya Finance, PT.",Jl. Letjend. Sutoyo 50A,21,5,26,Keuangan/ Finance
+541,"Batavia Prosperindo Finance, PT.",Jl. Kahuripan 5,10,4,14,Keuangan/ Finance
+542,"Best profit Futures, PT.",Jl. Letjend. S. Parman 59 Kav. 3-5,24,7,31,Keuangan/ Finance
+543,"BFI Finance Ind, Tbk, PT.",Jl. Letjend. Sutoyo 142,19,3,22,Keuangan/ Finance
+544,"Bussan Auto Finance, PT.","Ruko Taman Niaga A1-A2, A6 Jl. Sukarno Hatta",65,11,76,Keuangan/ Finance
+545,central santosa finance,jl. A.Yani 10,65,15,80,Keuangan/ Finance
+546,"CIMB Niaga Auto Finance, PT",Jl. Raya Dieng 27 B,15,5,20,Keuangan/ Finance
+547,"Federal International Finance (FIF) , PT.",Letjend. S. Parman 58A,126,26,152,Keuangan/ Finance
+548,"HD Finance, PT.",Jl. Letjend. S. Parman 82 Kav. 1,36,5,41,Keuangan/ Finance
+549,"Indomobil Finance Indonesia, PT.",Jl. Letjend. Sutoyo 60,18,5,23,Keuangan/ Finance
+550,"Mandala Multi Finance, PT.",Jl. A. I. Suryani 9 B-5,30,14,44,Keuangan/ Finance
+551,"Mandiri Tunas Financindo Sarana, PT.",Jl. Letjend. Sutoyo 55,20,10,30,Keuangan/ Finance
+552,"Mitra Dana Putra Utama Finance, PT.",Ruko Sokarno Hatta Indah,0,0,0,Keuangan/ Finance
+553,"Mitra Pinasthika Mustika Finance, PT.",Jl. Letjend. Sutoyo 50A,22,5,27,Keuangan/ Finance
+554,"Olympindo Multi Finance, PT.",Jl. Letjend. Sutoyo 27E-F,3,5,8,Keuangan/ Finance
+555,"Sasana Artha Finance, PT.",Jl. Basuki Rachmad 71-73,89,16,105,Keuangan/ Finance
+556,"Sinar Mas Multi Finance, PT.",Jl. Basuki Rahmad 58,15,20,35,Keuangan/ Finance
+557,"Sinar Mitra Sepadan Finance, PT.",Jl. Raya Langsep 27 E,8,2,10,Keuangan/ Finance
+558,"SMS Finance, PT.",Jl. Raya Langsep 276,11,3,14,Keuangan/ Finance
+559,"Summit Oto Finance, PT.",Jl. Letjend. S. Parman 56 Kav. B4-B6,72,7,79,Keuangan/ Finance
+560,"Suzuki Finance Ind, PT.",Jl. Letjend. S. Parman 54,73,14,87,Keuangan/ Finance
+561,"Toyota Astra Financial Services, PT.",Jl. Letjend. Sutoyo 3A,20,4,24,Keuangan/ Finance
+562,"Verena Multi Finance, PT.",Jl. Letjend. S. Parman 56,18,4,22,Keuangan/ Finance
+563,Wahana Ottomitra Multiartha Finance,Jl. Sukarno Hatta Kav. A2 No. 1-2,30,24,54,Keuangan/ Finance
+564,Gudang Waru Agung,Jl. Taman Tenaga 9-11,14,3,17,Keuangan/ Gudang
+565,KOP. Pegawai Swadharma (BNI),Jl. Basuki Rachmad 75-77,17,4,21,Keuangan/ Koperasi
+566,Kopegtel Malang,Jl. A. Yani 11,54,34,88,Keuangan/ Koperasi
+567,Kopkar BTN. Malang,Jl. A. I. Suryani 2-4,43,4,47,Keuangan/ Koperasi
+568,Kopkar RS. Lavalette,Jl. W. R. Supratman 10,3,3,6,Keuangan/ Koperasi
+569,Kopwan Setia Budi Wanita,Jl. Trunojoyo 76,22,18,40,Keuangan/ Koperasi
+570,Kosabra,Jl. Surabaya 3,12,17,29,Keuangan/ Koperasi
+571,KPRI. Bhakti Adiguna,Jl. Surabaya 2A,24,0,24,Keuangan/ Koperasi
+572,KSP. Artha Mitra Karya,Jl. R. T. Suryo 100,4,3,7,Keuangan/ Koperasi
+573,KSP. Kusuma Artha Lestari,Jl. MT. Haryono 171 Kav. E,8,6,14,Keuangan/ Koperasi
+574,KSU. Delta Mandiri,Jl. A. Yani 18C,6,5,11,Keuangan/ Koperasi
+575,Kop.Perhutani Biro Perencanaan,Jl. Kawi 9,19,0,19,Keuangan/ Kopkar
+576,"Adira Dinamika Multi Finance, PT.",Jl. Jagung Suprapto 56,174,31,205,Keuangan/ Leasing
+577,MNC Finance,Jl. Letjend. Sutoyo 121-121A,13,3,16,Keuangan/ Pembiayaan
+578,"Otto Multiartha, PT.",Jl. Jagung Suprapto 85,40,4,44,Keuangan/ Pembiayaan
+579,"Radana Bhaskara Finance, PT, Tbk",Jl. S. Parman 82 Kav. 1,43,7,50,Keuangan/ Pembiayaan
+580,Trimegah Securities Tbk,Jl. soekarno hatta MP-35,3,1,4,keuangan/securitas
+581,PT. Kembang Delapan Multifinance,Jl. Ahmad Yani No. 49,8,4,12,Keuangan
+582,Ayam Bakar Wong Solo,Jl. Arjuna,35,24,59,Perdaganga/ Restoran
+583,"Ace Hardware, Tbk. PT.",Jl. Kawi 24 (MOG),72,24,96,Perdagangan
+584,"Agri Servis Sakti, PT.",Perum Bukit Hijau B Kav 39,8,2,10,Perdagangan
+585,"Ajinomoto Sales Ind, PT.",Jl. A. Yani Utara RT. 2 RW. 1,20,0,20,Perdagangan
+586,"Almas Jaya Internusa,PT",Jl. Batubara 2A,2,1,3,Perdagangan
+587,"Altara, Toko",Jl. Pasar Besar 77,17,43,60,Perdagangan
+588,"Andi Motor, CV.",Jl. Syarif Al Qodri 17-19,9,3,12,Perdagangan
+589,"Aneka Makmur Pratama, UD.",Jl. Letjend. Sutoyo 112,12,13,25,Perdagangan
+590,"Angger, UD.",Jl. S. Priyo Sudarmo 26,1,3,4,Perdagangan
+591,"Antar Mitra Sembada, PT.",Jl. Blauran 8,55,10,65,Perdagangan
+592,"Anugerah Argon Medica, PT",Jl. Simpang Ranugrati 20 Malang,27,13,40,Perdagangan
+593,"Anugrah Argon Medica, PT.",Jl. Simpang Ranugrati 20,27,13,40,Perdagangan
+594,Apotik Djaya Sehat,Jl. Pasar Besar 90 Malang,0,0,0,Perdagangan
+595,"Ardendi Jaya Sentosa, PT.",Jl. Soekarno Hatta A 6,16,6,22,Perdagangan
+596,"Arta Boga Cemerlang, PT.",Jl. S. P. Sudarmo 27,145,30,175,Perdagangan
+597,"Atri Distribusindo, PT.",Jl. Simp. LA. Sucipto 20,28,3,31,Perdagangan
+598,"Avan Satria Grosirindo, CV.",Jl. D. Toba B-12A,14,22,36,Perdagangan
+599,"Avia, Tk.",Jl. Jagung Suprapto 1,5,7,12,Perdagangan
+600,"Batik Keris, PT.",Jl. Merdeka Timur 2D/E,7,11,18,Perdagangan
+601,"Batik Keris, PT.",MOG. Blok SS 59-61 Jl. Kawi,4,5,9,Perdagangan
+602,"Bentoel Distribusi Utama, PT",Jl. Susanto 2B,128,2,130,Perdagangan
+603,"Berkat Sejati Jaya, PT",Jl. Raya Bandulan 9,42,13,55,Perdagangan
+604,"Besi Sinar Mas, Tk.",Jl. Sultan Sahrir 109 A,63,7,70,Perdagangan
+605,"Bhikarya Sentosa (Plaza Dieng), PT.",Jl. Raya Langsep 2A,35,6,41,Perdagangan
+606,"Bina San Prima, PT.",Jl. A. Yani 138,78,30,108,Perdagangan
+607,"Bintang Mahkota Jaya, UD./ Sunny Boy",Jl. Simp. Tenaga II/8,27,4,31,Perdagangan
+608,Bintang Mas,Jl. Gatot Subroto 79,28,13,41,Perdagangan
+609,Blackstone Indomobile,Ruko Dinoyo 21 Jl. MT. Haryono,2,5,7,Perdagangan
+610,"Blackstone Indomobile, CV.",Jl. BS. Riyadi 27,5,5,10,Perdagangan
+611,"Blackstone Indomobile, CV.",Jl. BS. Riyadi 19,5,5,10,Perdagangan
+612,"Brilliant, CV.",Jl. Peltu Sujono 3,23,3,26,Perdagangan
+613,"Buana Inti Graha Malang, PT.",Jl. Peltu Sujono 9A,12,3,15,Perdagangan
+614,"Budi Jaya, PT.","Jl. Sartono, SH 3",10,0,10,Perdagangan
+615,"Buku Siswa, Toko",Jl. Merdeka Timur 12 JK,2,16,18,Perdagangan
+616,"Campina Ice Cream Ind. , PT.",Jl. Tenaga Baru I/10,24,3,27,Perdagangan
+617,Cargo/ Oma mode,Jl. Suropati 10,9,38,47,Perdagangan
+618,"Centerpoint Putra Sejahtera, PT.",Jl. Kawi 24,66,185,251,Perdagangan
+619,"Coca Cola Distributor Indonesia, PT.",Jl. Satsui Tubun 8,0,0,0,Perdagangan
+620,"Cussons Indonesia, PT.",Jl. Tenaga Baru III/9,0,0,0,Perdagangan
+621,CV. Avan Satria Grosirindo,Jl. Danau Toba B.12 A,0,22,22,Perdagangan
+622,Dandees Resto,Jl. Veteran 6 Malang,0,0,0,Perdagangan
+623,"Elizabeth Hanjaya, PT.",Jl. Raya Dieng 1 E-F,4,34,38,Perdagangan
+624,"Feronika, UD",Jl. Puncak Mandala,12,12,24,Perdagangan
+625,"Gadingmas Indah, PT.",Jl. Basuki Rachmad 17,10,2,12,Perdagangan
+626,"Gatra Perdana Putra, PT.",Jl. Letjend. Sutoyo 4-6,19,4,23,Perdagangan
+627,"Gramedia Asri Media, PT.",Jl. Veteran 2,23,18,41,Perdagangan
+628,"Gramedia Asri Media, PT.",Jl. Basuki Rachmad 3,29,18,47,Perdagangan
+629,"Gunungsari Intan, PT.",Jl. Jagung Suprapto 91,12,8,20,Perdagangan
+630,Hartono Elektronik,Jl. Letjend. S. Parman 111,0,0,0,Perdagangan
+631,"Hero Sakti Motor Gemilang, PT.",Jl. J. A. Suprapto 38,75,24,99,Perdagangan
+632,"Hero Sakti Motor, PT.",Jl. Letjend. S. Parman 91,33,12,45,Perdagangan
+633,"Hero Supermarket (Giant) , PT.",Jl. Kawi 24 (MOG),61,37,98,Perdagangan
+634,"Hero Supermarket, PT.",Jl. Kawi Atas 58,28,16,44,Perdagangan
+635,"Hero Supermarket, PT.",Plaza Araya PBI Megah 2,16,6,22,Perdagangan
+636,"Home Center Ind MOG, PT.",Jl. Kawi Lt. 2,70,26,96,Perdagangan
+637,Hotel Horison Ultima,Jl. Green Boulevard 2 Kota Araya,52,19,71,Perdagangan
+638,Indocell,Jl. BS. Riyadi,14,13,27,Perdagangan
+639,"Indofarma Global Medica, PT.",Jl. soekarno hatta 80,27,6,33,Perdagangan
+640,"Interna, UD.",Jl. Simpang L. A. Sucipto 8,34,2,36,Perdagangan
+641,"Istana Boneka, CV",Jl. Tenaga Baru IV/15,48,205,253,Perdagangan
+642,Istana Buah,Jl. Terusan Borobudur 63,4,6,10,Perdagangan
+643,Istana Buah,Jl. Jaksa Agung Suprapto 10,5,7,12,Perdagangan
+644,Istana Buah,Jl. Kawi 24,6,9,15,Perdagangan
+645,"Kartikasari Motor, UD.",Jl. Pasar Besar 28,0,0,0,Perdagangan
+646,Kopkar Pt. Brantas Abipraya Usaha Braya (Kosabra),Jl. Surabaya 3,12,17,29,Perdagangan
+647,"Kottalama makmur, PT.",Jl. Laks. Martadinata 113,9,7,16,Perdagangan
+648,"Ksatriya, Tk.",Jl. Pasar Besar 149,1,4,5,Perdagangan
+649,Laboratorium Klinik Ciliwung,Jl. Ciliwung 8 Malang,7,5,12,Perdagangan
+650,"Lion Super Indo, PT.",Jl. Raya Langsep 3,27,7,34,Perdagangan
+651,"Lion Superindo, PT.",Jl. Sulfat,32,0,32,Perdagangan
+652,Malang Plaza,Jl. K. H. Agussalim 26-28,46,5,51,Perdagangan
+653,"Marga Nusantara Jaya, PT",Jl. Panji Suroso 20 Malang,33,3,36,Perdagangan
+654,Market Buah Lailai,Jl. Arjuno 36,20,10,30,Perdagangan
+655,"Mason Naraji, PT.",Jl. Basuki Rachmad 43,12,7,19,Perdagangan
+656,Mediatek Intratama,Jl.Kebonsari 2 / 30 D,4,1,5,Perdagangan
+657,"Mega Mahadana Hadiya, PT",Jl. Raya Dieng No. 31,58,23,81,Perdagangan
+658,"Merapi Utama Pharma, PT.",Jl. Karya Barat 5,32,5,37,Perdagangan
+659,Mini Motor,Jl. Laks. Martadinata 79,8,0,8,Perdagangan
+660,"Mitra Kencana Perkasa, PT.",Jl. MT. Haryono 1A Kav. A9-10,33,7,40,Perdagangan
+661,"Mitra Pinasthika Mulia, PT.",Jl. Basuki Rahmad 71-73,30,2,32,Perdagangan
+662,"Nipsea Paint, PT.",Jl. Tenaga Baru Kav. 5,24,64,88,Perdagangan
+663,"Nusa Surya Ciptadana, PT",Jl. Sukarno Hatta D-150,100,24,124,Perdagangan
+664,"Nusantara Surya Sakti, PT.",Jl. Sukarno Hatta D-510,100,24,124,Perdagangan
+665,"Ongkowidjoyo, PT SPBU",Jl. Letjend. S. Parman 48-52,12,16,28,Perdagangan
+666,Panca Ragam Baru,Jl. Kyai Tamin 46,23,5,28,Perdagangan
+667,Pancaragam Anyar,Jl. Letjend. S. Parman 8-10,10,5,15,Perdagangan
+668,"Permata Bumi, PT.",Jl. Pulosari 15,24,1,25,Perdagangan
+669,Pilar,Jl. Kol. Sugiono 41,4,4,8,Perdagangan
+670,"Pinus Merah Abadi, PT",Jl. Ciujung 1 Malang,30,6,36,Perdagangan
+671,Plastik Berkat Ichtiar,Jl. Supriyadi 57C,5,9,14,Perdagangan
+672,"Rahayu Sejati, CV",Gadang VI/ 24,2,1,3,Perdagangan
+673,"Ramayana Lestari Sentosa, PT.",Jl. Merdeka Timur 1,63,145,208,Perdagangan
+674,"Rasasari Jaya Makmur, PT.",Jl. Janti Barat,24,5,29,Perdagangan
+675,"Ringgit, Fc.",Jl. B. S. Riyadi 26C,4,3,7,Perdagangan
+676,"Royal ATK/ Royal Jaya, CV.",Jl. Ciliwung 2,54,36,90,Perdagangan
+677,"Rubelan ABC, PT.",Jl. Galunggung 4,12,29,41,Perdagangan
+678,"Rudy Haryanto, UD.",Jl. Ters. Sulfat,17,19,36,Perdagangan
+679,"Sarana Indo Prima, PT.",Jl. Letjend. S. Parman 104 C,6,3,9,Perdagangan
+680,"Sari Melati Kencana, PT.",Jl. Soekarno Hatta Kav. I/25,21,16,37,Perdagangan
+681,Sari Melati Kencana/ Pizza Hut,Jl. Veteran 2 (Matows),15,7,22,Perdagangan
+682,Savana Hotel & Convention,Jl. Letjen Sutoyo 32-34,100,31,131,Perdagangan
+683,"Sepatu Top Lady, Tk.",Jl. Pasar Besar 29,2,6,8,Perdagangan
+684,"Sinar Mas Baja Perkasa, PT.",Jl. Sultan Syahrir 90,32,11,43,Perdagangan
+685,"Sitondi Utama Sentosa, PT",Jl.Letjen S.Parman 108,48,11,59,Perdagangan
+686,"Sodosakti Jaya, PT.",Jl. Kalimosodo IX/21,3,4,7,Perdagangan
+687,SPBU 58.651.49,Jl. Arjowinangun,3,3,6,Perdagangan
+688,"Sumber Makmur, Tk.",Jl. Prof. M. Yamin 53,4,4,8,Perdagangan
+689,"Sumber Urip, UD.",Jl. Letjen Sutoyo 8,8,3,11,Perdagangan
+690,"Surya Cipta Perkasa, CV.",Jl. Sukarno Hatta 8B,0,0,0,Perdagangan
+691,"Swakarya Insan Mandiri, PT.",Jl. Letjend. S. Parman 58A,94,28,122,Perdagangan
+692,"Tegas, Toko",Jl. Sersan Harun 40,0,0,0,Perdagangan
+693,"Tempo Cab. Malang, PT.",Jl. Tlogomas 26-27,39,7,46,Perdagangan
+694,"Tirta Bahagia, PT.",Jl. Karya Timur 6 A,0,0,0,Perdagangan
+695,Tk. Cat 73,Jl. Laks. Martadinata 73,5,6,11,Perdagangan
+696,Tk. Obat Alam Jaya,Jl. Pasar Besar 110,0,3,3,Perdagangan
+697,Toga Mas,Jl. Raya Dieng 27,28,16,44,Perdagangan
+698,"Togamas Semesta Abadi, PT",Jl. Raya Dieng No. A-2 Malang,28,16,44,Perdagangan
+699,Toko Cargo,Jl.Suropati 10,9,38,47,Perdagangan
+700,Tralala Karaoke Keluarga,Jl. Sumbersari 89,8,3,11,Perdagangan
+701,"Tritungga Setya, CV. (Niki Kopi Tiam)",Jl. Raya Bondowoso 8,15,15,30,Perdagangan
+702,Tunggal Jaya,Jl. Simp. Panji Suroso I/2A,0,0,0,Perdagangan
+703,UD. usaha jaya,Jl. Taman Borobudur utara 1a Malang,10,40,50,Perdagangan
+704,"Ultra Bintang Jaya Putra, PT.",Jl. Tenaga Selatan 28,34,2,36,Perdagangan
+705,"Unggul, CV.",Jl. R. Intan 53 I,9,8,17,Perdagangan
+706,"Unirama Duta Niaga, PT",Jl. Sonokembang 12 A,13,7,20,Perdagangan
+707,Variety Dept. Store,Jl. Agus Salim 26-28,7,33,40,Perdagangan
+708,"Wahana Wirawan, PT.",Jl. S. Parman 45,21,4,25,Perdagangan
+709,"Waru Agung, Tk.",Jl. Letjend. Sutoyo 74,2,5,7,Perdagangan
+710,"Smart Mulia Abadi, PT",Jl.Letjen S.Parman 56 A,3,17,20,Perdagangan Otomotif
+711,"Kharisma Malang Permai, PT.",Jl. Simp. Pattimura 11,10,1,11,Perdagangan/ Agen LPG
+712,Apotik Airlangga,Jl. Kyai Tamin 42,3,4,7,Perdagangan/ Apotik
+713,Apotik Pelita Sari,Jl. Letjen Sutoyo 31A,5,7,12,Perdagangan/ Apotik
+714,Apotik Sejati,Jl. Merdeka Timur 2,10,20,30,Perdagangan/ Apotik
+715,Apotik Wijaya Kusuma,Jl. Letjend. S. Parman 26,6,9,15,Perdagangan/ Apotik
+716,Lab. Dan Apotik Higina,Jl. Kaliurang 30,0,0,0,Perdagangan/ Apotik
+717,"Makmur Utama, PT.",Jl. Satsui Tubun 44,2,4,6,Perdagangan/ Automotif
+718,"Promotor Aga Persada, CV.",Jl. R. P. Suroso 15,7,5,12,Perdagangan/ Automotif
+719,"Sonokembang Wahana Jaya, PT.",Jl. Bend. Sigura-gura V/32,53,16,69,Perdagangan/ Catering
+720,"Mandalasena Perkasa, PT.",Jl. Letjend. Sutoyo 75,20,10,30,Perdagangan/ Dealer Mobil
+721,"Plaza Araya Sentra Niaga, PT.",Jl. Blimbing Indah Megah 2,24,4,28,Perdagangan/ Department Store
+722,"Mitra Agung Santosa, PT.",Jl. K. H. Agus Salim 10-16,23,95,118,Perdagangan/ Dept. Store
+723,"Sarinah, PT.",Jl. Basuki Rachmad 2A,25,18,43,Perdagangan/ Dept. Store
+724,"Hero Property Nusantara, PT.",Jl. J. Agung Suprapto 59,8,6,14,Perdagangan/ Developer
+725,"Intermas Tata Trading, PT",Jl.Tenaga Baru III/18,41,8,49,Perdagangan/ Distributor
+726,"Catur Sentosa Adi Prana, PT.",Jl. Tenaga Baru IV/18,66,13,79,Perdagangan/ Distributor Bahan Bangunan
+727,"Sentosa Adi Prasa, PT",Jl. Tenaga baru IV/8 Malang,65,12,77,Perdagangan/ Distributor Bahan Bangunan
+728,"Anugerah Pharmindo Lestari (APL) , PT.",Jl. Taman Tenaga Kav. 6,52,16,68,Perdagangan/ Distributor Farmasi
+729,"Sinar Intermark, PT.",Jl. R. Panji Suroso 20,33,3,36,Perdagangan/ Distributor Makanan dan Minuman
+730,"Supralita Mandiri, PT.",Jl. Kol. Sugiono 547,5,5,10,Perdagangan/ Distributor Minuman
+731,"Surya Madistrindo, PT.",Jl. Laks. Martadinata 76-78,108,26,134,Perdagangan/ Distributor Rokok
+732,Doos Jaya,Jl. Simpang Adi Sucipto,10,13,23,Perdagangan/ Doos
+733,"Molex Ayus, PT.",Jl Hamid Rusdi 93,9,0,9,Perdagangan/ Farmasi
+734,Rekso Nasional Food (Mc. Donald),Jl. MT. Haryono 115,23,10,33,Perdagangan/ Fastfood
+735,"Anugerah Lestari Jaya (Glamour FO) , CV.",Jl. Letjen Sutoyo 23,1,9,10,Perdagangan/ FO
+736,Okabawes Furniture,Jl. J. A. Suprapto 42,4,6,10,Perdagangan/ Furniture
+737,"Sentra Multigas Utama, PT.",Jl. L. A. Sucipto 110,18,4,22,Perdagangan/ Gas Oksigen
+738,"Export Leaf Indonesia, PT",Jl. Peltu Sujono 8,11,4,15,Perdagangan/ Gudang Tembakau
+739,"Aloita Prima, PT. (Harir Hotel Convention Malang)",Jl. A. Yani Utara Riverside C-1,218,44,262,Perdagangan/ Hotel
+740,Atria Hotel and Conference,Jl. S. Parman 87-89,22,20,42,Perdagangan/ Hotel
+741,Dewarna Hotel,Jl. Zainul Arifin 55,11,3,14,Perdagangan/ Hotel
+742,"Guesthouse Univ. Brawijaya, PT.",Jl. M. T. Haryono 169,0,0,0,Perdagangan/ Hotel
+743,Hotel Aloha,Jl. Gajahmada 7,13,3,16,Perdagangan/ Hotel
+744,Hotel Amaris,Jl.Letjen Sutoyo 39,26,11,37,Perdagangan/ Hotel
+745,Hotel Armi,Jl. Kaliurang 63,15,7,22,Perdagangan/ Hotel
+746,Hotel Gajahmada Graha,Jl. Dr. Sucipto 17,63,14,77,Perdagangan/ Hotel
+747,Hotel Griyadi Montana,Jl. C. Panggung 2,37,10,47,Perdagangan/ Hotel
+748,Hotel Kartika Graha,Jl. J. A. Suprapto 17,100,35,135,Perdagangan/ Hotel
+749,Hotel Kartika Kusuma,Jl. Kahuripan 12,11,3,14,Perdagangan/ Hotel
+750,Hotel Malang Regent’s Park,Jl. J. A. Suprapto 12-16,119,25,144,Perdagangan/ Hotel
+751,Hotel Malinda,Jl. Zainul Arifin 39,6,1,7,Perdagangan/ Hotel
+752,Hotel Mandala Puri,Jl. P. Sudirman 81,17,2,19,Perdagangan/ Hotel
+753,Hotel Megawati,Jl. Panglima Sudirman 90,10,3,13,Perdagangan/ Hotel
+754,Hotel Menara,Jl. Pajajaran 5,14,2,16,Perdagangan/ Hotel
+755,Hotel Mutiara,Jl. J. Agung Suprapto 30-32,26,4,30,Perdagangan/ Hotel
+756,Hotel Nugraha,Jl. R. P. Suroso 16,15,0,15,Perdagangan/ Hotel
+757,Hotel Pajajaran,Jl. Letjend. Sutoyo 178,17,9,26,Perdagangan/ Hotel
+758,Hotel Palem I,Jl. Hasanudin 10,8,10,18,Perdagangan/ Hotel
+759,Hotel Palem II,Jl. H. Tamrin 15,10,8,18,Perdagangan/ Hotel
+760,Hotel Pelangi,Jl. Merdeka Selatan 3,46,28,74,Perdagangan/ Hotel
+761,Hotel Pelangi Dua,Jl. Simpang Gajayana 575 B,14,6,20,Perdagangan/ Hotel
+762,Hotel Pinus,Jl. Simpang Tenaga II/11,28,0,28,Perdagangan/ Hotel
+763,Hotel Riche Malang,Jl. Basuki Rachmad 1,13,7,20,Perdagangan/ Hotel
+764,Hotel Santoso,Jl. K. H. Agussalim 24,22,6,28,Perdagangan/ Hotel
+765,Hotel Tosari,Jl. K. H. A. Dahlan 31,22,6,28,Perdagangan/ Hotel
+766,Hotel Trio Indah,Jl. Jagung Suprapto 18-20,30,18,48,Perdagangan/ Hotel
+767,Hotel Trio Indah 2,Jl. B. S. Riadi 1-3,26,9,35,Perdagangan/ Hotel
+768,Hotel Wilis Indah,Jl. Dr. Wahidin 40,13,3,16,Perdagangan/ Hotel
+769,"Kharisma Montana, PT.",Jl. Kahuripan 9,46,14,60,Perdagangan/ Hotel
+770,"Mitra Abadi Hotelindo, PT. (Hotel Aria)",Jl. Kawi 24 (MIOG),110,34,144,Perdagangan/ Hotel
+771,"Mitra Anugerah Jaya, PT. (Hotel Savana)",Jl. Letjend. Sutoyo 32-34,102,24,126,Perdagangan/ Hotel
+772,"Ollino Garden Hotel, CV.",Jl. Aries Munandar 41-45,25,20,45,Perdagangan/ Hotel
+773,"Splindid Inn (Hotel) , PT.",Jl. Mojopahit 2-4,6,14,20,Perdagangan/ Hotel
+774,Swiss Belian Malang,Jl. Veteran 8A,27,18,45,Perdagangan/ Hotel
+775,The Grand Palace Hotel,Jl. A. I. Suryani 23,46,9,55,Perdagangan/ Hotel
+776,"Toegoe Respati (Hotel Tugu) , PT.",Jl. Tugu 3,94,36,130,Perdagangan/ Hotel
+777,"Trinusa Emerald Abadi, PT. Hotel Royal Inn",Hotel Royal Inn Jl. Tenaga Baru I/5,30,4,34,Perdagangan/ Hotel
+778,Dewarna Hotel,Jl. Letjend Sutoyo No. 22,23,10,33,Perdagangan/ Hotel
+779,Everyday Smart Hotel / PT. Java Mitra Abadi,Jl. Sokarno Hatta No. 2,31,10,41,Perdagangan/ Hotel
+780,Roda Jaya Knalpot,Jl. A. Yani Gg. Perusahaan 8,8,1,9,Perdagangan/ Knalpot
+781,"Myoh Technology, Tbk, PT.",Jl. Bukit Dieng 3E kav. 1-2,28,5,33,Perdagangan/ Komputer
+782,"Asia Paramita Indah, PT.",Jl. Karya Timur 66,22,11,33,Perdagangan/ Kosmetik
+783,"Eddy Sentosa Jaya Karya, PT.",Jl. Halmahera 90A,14,4,18,Perdagangan/ LPG
+784,"Mapalus Prima Utama, PT.",Jl. R. P. Suroso 5,14,1,15,Perdagangan/ LPG
+785,"Mason Naraji, PT.",Jl. Industri Timur 36,18,1,19,Perdagangan/ LPG
+786,"Seulawah, CV.",Jl. Simp. Pattimura 9,36,6,42,Perdagangan/ LPG
+787,"Yakult Ind. Persada, PT.",Jl. Raya Tasikmadu 6,16,3,19,Perdagangan/ Minuman
+788,Perdana Motor,Jl. Letjend. Sutoyo 11,25,10,35,Perdagangan/ Mobil
+789,"Budikarsa Adiwidyajaya Oil, PT.",Jl. Sartono SH No. 3,10,0,10,Perdagangan/ Oli
+790,Optik International,Jl. S. Wiryopranoto 25,21,26,47,Perdagangan/ Optik
+791,"Astra International, PT.",Jl. S. Priyosudarmo 40,30,8,38,Perdagangan/ Otomotif
+792,"Astra International, PT.",Jl. Letjend. Sutoyo 25,131,8,139,Perdagangan/ Otomotif
+793,"Astra International, PT.",Jl. Supriyadi 35,94,3,97,Perdagangan/ Otomotif
+794,"Astra International, PT.",Jl. A. Yani 175,69,15,84,Perdagangan/ Otomotif
+795,Kartika Sari Motor,Jl. Puncak Borobudur 1,14,3,17,Perdagangan/ Otomotif
+796,Sumber Alam,Jl. Arif Margono 46,0,0,0,Perdagangan/ Otomotif
+797,"Interbat, PT.",Jl. Janti Barat Blok A 48,2,5,7,Perdagangan/ PBF
+798,"Millenium Pharmacon, PT.",Jl. Hamid Rusdi 95,18,4,22,Perdagangan/ PBF
+799,"Parit Padang Cab. Malang, PT.",Jl. Tenaga Baru I/11 A,51,18,69,Perdagangan/ PBF
+800,"Rajawali Nusindo, PT.",Jl. Delima 7,19,5,24,Perdagangan/ PBF
+801,Penerbit Airlangga Mahameru,Ruko Sukarno Hatta Indah C-10-11,30,2,32,Perdagangan/ Penerbit
+802,"Nikijoyo, PT.",Jl. Raya Bandulan 147,21,49,70,Perdagangan/ Perhiasan Emas
+803,"Grawita Santika, PT.",Jl. Letjen Sutoyo 79,63,24,87,Perdagangan/ Perhotelan
+804,"Perkebunan Cengkeh, PT.",Jl. Bromo 25,12,0,12,Perdagangan/ Perkebunan
+805,"Patra Trading, PT.",Jl. Halmahera 13,36,1,37,Perdagangan/ Pertamina
+806,"Pertamina (Persero) , PT. Usaha Patra Lima Jaya",Jl. Halmahera 13,15,1,16,Perdagangan/ Pertamina
+807,Apollo Star,Jl. Tlogomas 15,25,5,30,Perdagangan/ Plastik
+808,Citra Plastik,LA. Sucipto 89,8,14,22,Perdagangan/ Plastik
+809,"Makmur Jaya Kharisma, PT.",Jl. Kol. Sugiono 206,385,215,600,Perdagangan/ Plastik
+810,Pasifik Plastik,Jl. LA. Sucipto 87,0,0,0,Perdagangan/ Plastik
+811,"Cipta Selera Murni, PT.",Jl. Kawi 24,16,8,24,Perdagangan/ Restaurant
+812,Batavia Resto,Jl. Jakarta 51 Malang,13,6,19,Perdagangan/ Restoran
+813,"Biru Fast Food Nusantara, PT.",Jl. Kawi 24 (MOG),17,6,23,Perdagangan/ Restoran
+814,Café Bunga Bali,Jl. Ungaran 22,9,6,15,Perdagangan/ Restoran
+815,Dandee Resto,Jl. KH. Agus Salim A5-18,10,4,14,Perdagangan/ Restoran
+816,Dandee Resto,Jl. Kawi 1-5,17,8,25,Perdagangan/ Restoran
+817,Dandee Resto,Ruko Patimuram Jl.Pattimura,9,2,11,Perdagangan/ Restoran
+818,Dandee Resto,Jl. K.H. Agussalim 15A,15,5,20,Perdagangan/ Restoran
+819,"Fast Food Ind, Tbk. (KFC)",Jl. Veteran 2 (matos),10,12,22,Perdagangan/ Restoran
+820,"Fast Food Indonesia, PT. (sarinah)",Jl. Kawi Atas 38,30,14,44,Perdagangan/ Restoran
+821,"Gloria, RM.",Jl. K. H. Agus Salim 23,17,15,32,Perdagangan/ Restoran
+822,Harmoni Resto Cafe,Jl. Bromo 44,16,19,35,Perdagangan/ Restoran
+823,Hugo’s Cafe Resto,Jl. Raya Langsep 24,17,6,23,Perdagangan/ Restoran
+824,Ikan Bakar 52,Jl. K. H. Agussalim 11,0,0,0,Perdagangan/ Restoran
+825,Ikan Bakar Cianjur,Jl. Simpang Balapan 5,28,22,50,Perdagangan/ Restoran
+826,KDS. Cantonese Restaurant,Jl. Araya Megah 1,54,21,75,Perdagangan/ Restoran
+827,"Kertanegara, RM.",Jl. Kertanegara 1,25,15,40,Perdagangan/ Restoran
+828,"Kertasari, RM",Jl. Letjend Sutoyo 80,10,6,16,Perdagangan/ Restoran
+829,KFC Sarinah Malang,Jl. Basuki Rahmad 2A Malang,27,14,41,Perdagangan/ Restoran
+830,Malibu Steak,Jl. Terusan kawi 6C-6D,0,0,0,Perdagangan/ Restoran
+831,"Rekso Nasional Food, PT (Mc Donals Mitra I)",Jl. KH. Agus Salim 10-16,16,11,27,Perdagangan/ Restoran
+832,"Rekso Nasional Food, PT.",Jl. Basuki Rachmad 2A,24,9,33,Perdagangan/ Restoran
+833,Rest. New Hongkong,Jl. A. R. Hakim 7-9,13,3,16,Perdagangan/ Restoran
+834,"Restaurant Oen, Tk.",Jl. Basuki Rachmad 5,21,11,32,Perdagangan/ Restoran
+835,Ria Djenaka RM.,Jl. Bandung 5,16,8,24,Perdagangan/ Restoran
+836,"Sari Melati Kencana (Pizza Hut) , PT.",Jl. Semeru 37,26,15,41,Perdagangan/ Restoran
+837,Sari Melati Kencana / Pizza Hut,Jl. Ciliwung 1,30,12,42,Perdagangan/ Restoran
+838,Waroeng Steak Shake,Jl. Sukarno Hatta 14,0,0,0,Perdagangan/ Restoran
+839,Waroeng Steak Shake,Jl. Kawi Bawah 18,0,0,0,Perdagangan/ Restoran
+840,Warung Mungil,Jl. JA. Suprapto 60 A,9,9,18,Perdagangan/ Restoran
+841,"Alfa Retalindo , PT./ Carefour",Jl. A. Yani 2,29,17,46,Perdagangan/ Retail
+842,"Alfa Retalindo / Carefour, PT.",Jl. KH. Agussalim 10-16,26,16,42,Perdagangan/ Retail
+843,Giant Supermarket,Jl. MT. Haryono 145,28,13,41,Perdagangan/ Retail
+844,Hero Supermarket/ Giant,Jl. D. Toba 1,25,17,42,Perdagangan/ Retail
+845,"Indomarco Prismatama, PT.",Jl. Trunojoyo 22-24,5,3,8,Perdagangan/ Retail
+846,"Indomarco Prismatama, PT.",Jl. M. Sungkono,1060,89,1149,Perdagangan/ Retail
+847,"Indomarco Prismatama, PT.",Jl. Laks. Martadinata 181,6,3,9,Perdagangan/ Retail
+848,"Indomarco Prismatama, PT.",Jl. S. Supriyadi,5,3,8,Perdagangan/ Retail
+849,"Indomarco Prismatama, PT.",Jl. Soekarno Hatta Kav. A-7,8,5,13,Perdagangan/ Retail
+850,"Matahari Dept.Store, PT.",Jl. Kyai Tamin Komp. Pasar Besar Lt. 2,28,112,140,Perdagangan/ Retail
+851,"Matahari Putra Prima, PT.",Jl. Veteran 2,76,77,153,Perdagangan/ Retail
+852,Midi Utama Ind.,Jl. Ters. Dieng 51,12,6,18,Perdagangan/ Retail
+853,Midi Utama Ind.,Jl. Supriyadi 240,12,8,20,Perdagangan/ Retail
+854,Midi Utama Ind.,Jl. A. Yani 85,10,11,21,Perdagangan/ Retail
+855,Midi Utama Ind.,Jl. Sukarno Hatta 20,11,6,17,Perdagangan/ Retail
+856,Midi Utama Ind.,Jl. Kol. Sugiono 58,10,10,20,Perdagangan/ Retail
+857,Midi Utama Ind.,Jl. D. Bratan 2 J/17,8,11,19,Perdagangan/ Retail
+858,Midi Utama Ind.,Jl. Supriyadi 53,10,11,21,Perdagangan/ Retail
+859,"Ratu Idaman Pratama, PT.",Jl. KH. Agussalim 18,50,80,130,Perdagangan/ Retail
+860,Trend Shop Malang,Jl. S. W. Pranoto 25,26,53,79,Perdagangan/ Retail
+861,"Rekso Nasional Food, PT.",Jl. Brigj. Slamet Riyadi 1-3,30,15,45,Perdagangan/ RM
+862,"Happy Cendrawasih Motor, CV.",Jl. S. P. Sudarmo 29,5,2,7,Perdagangan/ Sepeda Motor
+863,"Mitra Pinasthika Mustika, PT.",Jl. Supriyadi 42,15,5,20,Perdagangan/ Sepeda Motor
+864,"Mitra Pinasthika Mustika, PT.",Jl. B. Rahmad 71-73,21,9,30,Perdagangan/ Sepeda Motor
+865,Rodasakti Suryaraya,Jl. A. Yani 20 A-B,0,0,0,Perdagangan/ Sepeda Motor
+866,"Sarana Mas Sejahtera, CV.",Jl. Gatot Subroto 9C,24,5,29,Perdagangan/ Sepeda Motor
+867,"Trijaya Utama manunggal, PT.",Jl. Satsui Tubun 44 Kav. C1,5,3,8,Perdagangan/ Sepeda Motor
+868,"Amasar Inti Nusantara, PT.",Jl. Raya Langsep 1,6,14,20,Perdagangan/ SPBU
+869,Sahabat Membangun Bersama / SPBU,Jl. Bendungan Sutami 1,22,10,32,Perdagangan/ SPBU
+870,SPBU,Jl. M. Sungkono,14,0,14,Perdagangan/ SPBU
+871,SPBU,Jl. Soekarno Hatta,6,6,12,Perdagangan/ SPBU
+872,SPBU,Jl. D. Toba/ Dirgantara,12,9,21,Perdagangan/ SPBU
+873,SPBU,Jl. Raya Tlogomas 45,30,14,44,Perdagangan/ SPBU
+874,SPBU,Jl. Bandung 5C,23,6,29,Perdagangan/ SPBU
+875,SPBU,Jl. Ki Ageng Gribig,16,7,23,Perdagangan/ SPBU
+876,SPBU,Jl. Terusan Sulfat,15,20,35,Perdagangan/ SPBU
+877,SPBU,Jl. Yulius Usman 27,24,8,32,Perdagangan/ SPBU
+878,SPBU,Jl. Supriyadi 38 A,12,12,24,Perdagangan/ SPBU
+879,SPBU,Jl. Lowokdoro,13,0,13,Perdagangan/ SPBU
+880,SPBU,Jl. P. Sudirman,18,1,19,Perdagangan/ SPBU
+881,SPBU,Jl. R. P. Suroso 22,14,2,16,Perdagangan/ SPBU
+882,SPBU,Jl. R. P. Suroso 10 B,14,16,30,Perdagangan/ SPBU
+883,SPBU,Jl. Kol. Sugiono,14,0,14,Perdagangan/ SPBU
+884,SPBU,Jl. Kol. Sugiono 176 B,16,10,26,Perdagangan/ SPBU
+885,"Staba Patria Kencana, PT.",Jl. R. Intan,18,0,18,Perdagangan/ SPBU
+886,"Maltoraya, UD.",Jl. RP. Suroso 16,5,1,6,Perdagangan/ Sub Distributor
+887,"Sinar Sosro, PT.",Jl. M. Sungkono 99,35,0,35,Perdagangan/ Teh
+888,"Sriwijaya Air, PT.",Jl. Letjend. S. Parman 59B,5,12,17,Perdagangan/ Ticket
+889,Smooth cafe karaoke,Jl. terusan raya dieng 36,19,2,21,perdagangan/karaoke
+890,PT. Amzar Karya,Jl. Bandara Palmerah VI/A-21,4,5,9,Perdagangan
+891,PT. Mustika Zidang Karya,Jl. Bandara Palmerah VI/G-20,4,5,9,Perdagangan
+892,Javanine Restaurant,Jl. Pahlawan Trip A-5,33,20,53,Perdagangan
+893,PT. Royal Abadi Jaya Raya,Jl. Bandulan Gang VIII B No. 21,7,3,10,Perdagangan
+894,PT. Richeese Kuliner Indonesia,Jl. Arjuno No. 2,15,12,27,Perdagangan
